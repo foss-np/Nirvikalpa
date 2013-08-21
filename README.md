@@ -26,7 +26,7 @@ Add this application under suitable category in index file.
 
 ##Method 2:##
 This is a quick and dirty way to perform the task faster.
-There is a script apphelper.sh inside the aplication folder.
+There is a script apphelper.sh inside the scripts folder.
 These instruction seems to be lengthy at first, but after first cycle you will find it helpful and easier.
 Run the script.
 
