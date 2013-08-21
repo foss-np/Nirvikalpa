@@ -5,6 +5,8 @@ http://nirvikalpa.fossnepal.org
 
 ## Adding new application
 
+There are two methods, Method 1 and Method 2. Method 1 is accurate but quite boring. Method 2 may not be that accurate compared to Method 1 but is easier and will complete the task faster. :)
+
 
 ##Method 1:##
 ### STEP :one:
@@ -54,5 +56,7 @@ Run the script.
 
 13. Give linux name of the application, same in most of the cases.
 
-14. Completed. Now Now, was that hard?? :)
+14. Add this application under suitable category in index 
+
+15. Completed. Now Now, was that hard?? :)
 
