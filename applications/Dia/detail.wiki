@@ -1,0 +1,10 @@
+==About Dia [0.97.2]==
+Dia is a gtk+ based diagram creation program released under the GPL license.  Dia is inspired by the commercial Windows program 'Visio', though more geared towards informal diagrams for casual use. It can be used to draw many different kinds of diagrams. It currently has special objects to help draw entity relationship diagrams, UML diagrams, flowcharts, network diagrams, and many other diagrams. It is also possible to add support for new shapes by writing simple XML files, using a subset of SVG to draw the shape.
+{{images/dia.jpg}}
+==Features==
+It can load and save diagrams to a custom XML format.
+It can export diagrams to a number of formats, including EPS, SVG, XFIG, WMF and PNG, and can print diagrams (including ones that span multiple pages).
+
+==Related Links==
+*https://projects.gnome.org/dia/faq.html
+*http://sourceforge.net/projects/dia-installer/reviews/

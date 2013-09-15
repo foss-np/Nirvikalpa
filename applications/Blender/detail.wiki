@@ -1,0 +1,22 @@
+==About Blender [2.68]==
+Blender is 3D creation software for everyone, free to use for any purpose, Free and Open Source Software and great community. This application is alternative to proprietary applications like Maya, 3d Studio Max, etc. This application is used
+{{images/blender1.jpg}}
+==Features==
+Interface: The Interface allows you to change, adapt and re distribute the layout of all UI components and tools to suit the task at hand.  From the smallest adjustment in size to a full custom interface, all this adaptability and ease of change allows for smooth and organic work flows with natural scene interaction.
+Character Modeling: With a great variety of tools available, Sculpting can be used to create very detailed organic looking characters. Coupled with modifiers like multi-res, the models can be very complex while the interface remains responsive.
+Rigging: Transforming any model into a posable character has never been easier, with highly sophisticated methods of deformation calculation that allow realistic mesh displacement.
+Solids Modeling: Hard surfaces and Subdivision surface modeling benefit from tools that range from community provided complex primitives to stackable modifiers.
+Animation: Thanks to flawless integration, tasks as simple as walk cycles or as complex as lip syncing can be undertaken with more emphasis on the results and the fine tunning.
+Rendering: True and tested, the robust default render engine is an industrial strength image generator.
+UV Unwrapping: Using any of the multiple available tools to project meshes, it is straightforward to manage texture space for a given geometry.
+Raytrace Rendering: Create stunning visuals using a render engine that treats light in a more natural way, with the Cycles Render Engine.
+Physics and Particles
+Shading
+Realtime 3D/Game Creation
+Imaging and Compositing#
+Camera and motion tracking
+Extensible
+Supported Platforms:     Windows XP, Vista, 7
+==Related Links==
+*http://download.cnet.com/Blender/3000-6677_4-10514553.html
+*https://www.youtube.com/watch?v=H6q5bxVFGEc
