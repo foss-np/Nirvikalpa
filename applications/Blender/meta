@@ -1,5 +1,0 @@
-HOMEPAGE=http://www.blender.org/
-DOWNLOAD_URL=http://ftp.nluug.nl/pub/graphics/blender/release//Blender2.68/blender-2.68a-windows32.exe
-VERSION=2.68
-EXECUTABLE_NAME=blender-2.68a-windows32.exe
-LINUX_NAME=Blender

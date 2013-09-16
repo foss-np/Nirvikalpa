@@ -1,5 +1,0 @@
-==About The GIMP [2.8.6]==
-GIMP (GNU Image Manipulation Program) is an image retouching and editing tool and is released under the LGPLv3 and later versions and the GPLv3 and later versions as free and open-source software. There are versions tailored for most operating systems including Linux, OS X, and Microsoft Windows.
-{{images/gimp28.png}}
-==Features==
-

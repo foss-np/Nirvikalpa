@@ -1,5 +1,0 @@
-HOMEPAGE=http://dia-installer.de/
-DOWNLOAD_URL=http://kaz.dl.sourceforge.net/project/dia-installer/dia-win32-installer/0.97.2/dia-setup-0.97.2-2-unsigned.exe
-VERSION=0.97.2
-EXECUTABLE_NAME=dia-setup-0.97.2-2-unsigned.exe
-LINUX_NAME=Dia
