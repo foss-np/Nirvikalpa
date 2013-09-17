@@ -2,13 +2,13 @@
 Tux Paint is a free, award-winning drawing program for children ages 3 to 12 (for example, preschool and K-6). Tux Paint is used in schools around the world as a computer literacy drawing activity. It combines an easy-to-use interface, fun sound effects, and an encouraging cartoon mascot who guides children as they use the program.
 {{images/Tuxpaint.png}}
 ==Features==
-Kids are presented with a blank canvas and a variety of drawing tools to help them be creative.Multi-Platform
-Simple Interface
-Entertaining Interface
-Drawing Tools
-Commands
-Translations
-International Character Input
-Parental and Teacher Controls
+*Kids are presented with a blank canvas and a variety of drawing tools to help them be creative.Multi-Platform
+*Simple Interface
+*Entertaining Interface
+*Drawing Tools
+*Commands
+*Translations
+*International Character Input
+*Parental and Teacher Controls
 ==Related Links==
 *http://tuxpaint.org/reviews/
