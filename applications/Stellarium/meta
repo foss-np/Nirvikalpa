@@ -1,5 +1,5 @@
 HOMEPAGE=http://www.stellarium.org/
 DOWNLOAD_URL=http://kaz.dl.sourceforge.net/project/stellarium/Stellarium-win32/0.12.2/stellarium-0.12.2-win32.exe
 VERSION=0.12.2
-EXECUTABLE_NAME=Stellarium
+EXECUTABLE_NAME=stellarium-0.12.2-win32.exe
 LINUX_NAME=Stellarium

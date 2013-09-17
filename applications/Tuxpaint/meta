@@ -1,5 +1,5 @@
 HOMEPAGE=http://www.tuxpaint.org/
 DOWNLOAD_URL=http://sourceforge.net/projects/tuxpaint/files/tuxpaint/0.9.21c/tuxpaint-0.9.21c-win32-installer-opencandy.exe
 VERSION=0.9.21c
-EXECUTABLE_NAME=TuxPaint
+EXECUTABLE_NAME=tuxpaint-0.9.21c-win32-installer-opencandy.exe
 LINUX_NAME=TuxPaint
