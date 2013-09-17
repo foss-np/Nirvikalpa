@@ -1,0 +1,5 @@
+HOMEPAGE=http://enigma.nongnu.org/index.html
+DOWNLOAD_URL=http://sourceforge.net/projects/enigma-game/files/Release%201.20/Enigma-w32-1.20.exe/download
+VERSION=1.2
+EXECUTABLE_NAME=
+LINUX_NAME=Enigma
