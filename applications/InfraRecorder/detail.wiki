@@ -3,16 +3,16 @@ InfraRecorder is a free CD/DVD burning solution for Microsoft Windows. It offers
 InfraRecorder is released under GPL version 3.
 {{images/InfraRecorder.png}}
 ==Features==
-Create custom data, audio and mixed-mode projects and record them to physical discs as well as disc images.
-Supports recording to dual-layer DVDs.
-Blank (erase) rewritable discs using four different methods.
-Record disc images (ISO and BIN/CUE).
-Fixate discs (write lead-out information to prevent further data from being added to the disc).
-Scan the SCSI/IDE bus for devices and collect information about their capabilities.
-Create disc copies, on the fly and using a temporary disc image.
-Import session data from multi-session discs and add more sessions to them.
-Display disc information.
-Save audio and data tracks to files (.wav, .wma, .ogg, .mp3 and .iso).
+*Create custom data, audio and mixed-mode projects and record them to physical discs as well as disc images.
+*Supports recording to dual-layer DVDs.
+*Blank (erase) rewritable discs using four different methods.
+*Record disc images (ISO and BIN/CUE).
+*Fixate discs (write lead-out information to prevent further data from being added to the disc).
+*Scan the SCSI/IDE bus for devices and collect information about their capabilities.
+*Create disc copies, on the fly and using a temporary disc image.
+*Import session data from multi-session discs and add more sessions to them.
+*Display disc information.
+*Save audio and data tracks to files (.wav, .wma, .ogg, .mp3 and .iso).
 ==Related Links==
 *http://www.pcworld.com/article/232752/infrarecorder_portable.html
 *http://www.snapfiles.com/get/infrarecorder.html
