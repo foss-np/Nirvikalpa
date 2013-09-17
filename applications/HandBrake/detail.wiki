@@ -2,14 +2,17 @@
 HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 {{images/HandBrake.jpg}}
 ==Features==
-* **Built-in Device Presets**: Get started with HandBrake in seconds by choosing a profile optimised for your device, or choose a universal profile for standard or high quality conversions. Simple, easy, fast. For those that want more choice, tweak many basic and advanced options to improve your encodes. 
-* Supported Input Sources: Handbrake can process most common multimedia files and any DVD or BluRay sources that do not contain any kind of copy protection.
-* **Outputs**:
+* Built-in Device Presets: 
+Get started with HandBrake in seconds by choosing a profile optimised for your device, or choose a universal profile for standard or high quality conversions. Simple, easy, fast. For those that want more choice, tweak many basic and advanced options to improve your encodes. 
+* Supported Input Sources: 
+Handbrake can process most common multimedia files and any DVD or BluRay sources that do not contain any kind of copy protection.
+* Outputs:
 ** File Containers- .MP4(.M4V) and .MKV
 ** Video Encoders- H.264(x264), MPEG-4 and MPEG-2 (libav), and Theora(libtheora)
 **Audio Encoders- AAC, CoreAudio AAC/HE-AAC (OS X Only), MP3,Flac, AC3, or Vorbis
 ** Audio Pass-thru- AC-3, DTS, DTS-HD, AAC and MP3 tracks
-* **Some more features**:
+
+* Some more features:
 **Title / Chapter selection
 **Queue up multiple encodes
 **Chapter Markers
