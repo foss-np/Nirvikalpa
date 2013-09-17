@@ -1,0 +1,31 @@
+==About PSPP 0.8.0==
+PSPP is a program for statistical analysis of sampled data. It is a Free replacement for the proprietary program SPSS, and appears very similar to it with a few exceptions.
+
+The most important of these exceptions are, that there are no “time bombs”; your copy of PSPP will not “expire” or deliberately stop working in the future. Neither are there any artificial limits on the number of cases or variables which you can use. There are no additional packages to purchase in order to get “advanced” functions; all functionality that PSPP currently supports is in the core package.
+
+PSPP can perform descriptive statistics, T-tests, anova, linear and logistic regression, cluster analysis, factor analysis, non-parametric tests and more. Its backend is designed to perform its analyses as fast as possible, regardless of the size of the input data. You can use PSPP with its graphical interface or the more traditional syntax commands. 
+{{images/PSPP.png}}
+==Features of 7-Zip 4.65==
+# Supports over 1 billion cases.
+# Supports over 1 billion variables.
+# Syntax and data files are compatible with those of SPSS.
+# Choice of terminal or graphical user interface.
+# Choice of text, postscript, pdf, opendocument or html output formats.
+# Inter-operates with Gnumeric, LibreOffice, OpenOffice.Org and other free software.
+# Easy data import from spreadsheets, text files and database sources.
+# User interface supports all character sets and has been translated to multiple languages (details).
+# Fast statistical procedures, even on very large data sets.
+# No license fees.
+# No expiration period.
+# No unethical “end user license agreements”.
+# Fully indexed user manual.
+# Free Software; licensed under GPLv3 or later.
+# Cross platform; Runs on many different computers and many different operating systems (GNU or GNU/Linux are the prefered platforms, but we have had many reports that it runs well on other systems too).
+
+==PSPP related links==
+* [[http://www.gnu.org/software/pspp/get.html | Get your copy of PSPP]] PSPP is particularly aimed at statisticians, social scientists and students requiring fast convenient analysis of sampled data.
+* [[https://lists.gnu.org/mailman/listinfo/pspp-users | PSPP mailing lists]]
+* [[http://www.gnu.org/software/pspp/documentation.html]] The manual for PSPP 0.8.0 is available in the various formats.
+*[[http://kaz.dl.sourceforge.net/project/pspp4windows/2013-07-24/pspp-080-20130724-64bits-Setup.exe |64 bit download link ]]
+
+

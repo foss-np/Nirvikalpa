@@ -1,0 +1,5 @@
+HOMEPAGE=http://ugene.unipro.ru/
+DOWNLOAD_URL=http://ugene.unipro.ru/downloads/ugene_1_12_1_win_x86_full.exe
+VERSION=1.12.1
+EXECUTABLE_NAME=ugene_1_12_1_win_x86_full.exe
+LINUX_NAME=UGENE
