@@ -1,0 +1,5 @@
+HOMEPAGE=http://maxima.sourceforge.net/
+DOWNLOAD_URL=http://kaz.dl.sourceforge.net/project/maxima/Maxima-Windows/5.30.0-Windows/maxima-5.30.0.exe
+VERSION=5.30.0
+EXECUTABLE_NAME=maxima-5.30.0.exe
+LINUX_NAME=Maxima
