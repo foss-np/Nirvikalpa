@@ -2,17 +2,17 @@
 Stellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a telescope.It is being used in planetarium projectors. Just set your coordinates and go.
 {{images/Stellarium.jpg}}
 ==Features==
-Realistic simulation of the sky, sunrise and sunset
-Default catalogue of over 600,000 stars
-Downloadable additional catalogues for up to 210 million stars
-Catalog data for all New General Catalogue (NGC) objects
-Images of almost all Messier objects and the Milky Way
-Artistic illustrations for all 88 modern constellations
-More than a dozen different cultures with their constellations
-Solar and lunar eclipse simulation
-Photorealistic landscapes (more are available on the website)
-Scripting support with ECMAScript (a few demo scripts are included)
-Extendable with plug-ins: 8 plug-ins installed by default
+*Realistic simulation of the sky, sunrise and sunset
+*Default catalogue of over 600,000 stars
+*Downloadable additional catalogues for up to 210 million stars
+*Catalog data for all New General Catalogue (NGC) objects
+*Images of almost all Messier objects and the Milky Way
+*Artistic illustrations for all 88 modern constellations
+*More than a dozen different cultures with their constellations
+*Solar and lunar eclipse simulation
+*Photorealistic landscapes (more are available on the website)
+*Scripting support with ECMAScript (a few demo scripts are included)
+*Extendable with plug-ins: 8 plug-ins installed by default
 ==Related Links==
 *http://www.derbyastronomy.org/StellariumReview.htm
 *http://www.snapfiles.com/userreviews/111669/stellarium.html
