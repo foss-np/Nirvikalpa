@@ -2,15 +2,15 @@
 Songbird is a cross-platform music player based on Mozilla code. It lets you play, manage, and discover music. You can customize its appearance with skins, and create dynamic playlists that automatically update based on criteria you set.
 {{images/SongBird.jpg}}
 ==Features==
-Ability to play audio formats MP3, AAC, Ogg Vorbis, FLAC, Apple Lossless and WMA
-Last.fm integration via a plugin, complete with love/hate buttons
-Media Importing / Exportings (from and to iTunes)
-Includes an integrated web browser
-Media files stored on pages viewed in the browser show up as playable files in Songbird
-Ability to subscribe to MP3 blogs as playlists
-Ability to build custom mixes
-A skinnable interface, via feathers
-Automatic updates
+*Ability to play audio formats MP3, AAC, Ogg Vorbis, FLAC, Apple Lossless and WMA
+*Last.fm integration via a plugin, complete with love/hate buttons
+*Media Importing / Exportings (from and to iTunes)
+*Includes an integrated web browser
+*Media files stored on pages viewed in the browser show up as playable files in Songbird
+*Ability to subscribe to MP3 blogs as playlists
+*Ability to build custom mixes
+*A skinnable interface, via feathers
+*Automatic updates
 ==Related Links==
 *http://www.pcworld.com/article/2027904/review-songbird-desktop-is-much-more-than-just-a-media-player.html
 *http://windows.appstorm.net/reviews/songbird-a-viable-media-player/
