@@ -1,0 +1,15 @@
+==About CaRMetal 3.8.2==
+Compass and Ruler (C.a.R.) is a dynamic geometry software developed by Rene Grothmann since 1989. CaRMetal is based on C.a.R. : it includes all of its functionalities - or almost - but follows a different approach from the graphical interface point of view. It's not just a different design - which would not make sense - but instead it gives another way to reach functionnalities.
+
+This new interface, programed by Eric Hakenholz (mathematic's teacher), delivers direct access and instant effects to numerous actions instead of intermediate steps, like modal dialog boxes. Constructions in CaRMetal are made with a main palette and two inspectors : the first one is in charge of macros' management and the other one concerns objects properties.
+{{images/carmetal.jpg}}
+==Features of CaRMetal 3.8.2==
+# Workbooks: CaRMetal uses a folder system allowing one to put several figures in one folder, called "workbook". It is easy to navigate between the sheets of a workbook, to duplicate a sheet (or figure), to merge several workbooks into one. CaRMetal allows one to include picture files and JavaScript files into a figure. 
+# Numeric display: It is possible to convert any numerical measure of the figure into text, for display purposes.
+# 2.5D: CaRMetal allows the user to set some properties of the objects, like their color or the fact that they are visible or not, as conditional. Also each object can have a layer number. One can speak about 2.5D because CaRMetal is not quite a 3D software, but more than just a 2D software either.
+# Magnetism: A point can be made magnetic with a distance and a list of objects it is attracted to whenever the point is sufficiently near one or several of these objects (sufficiently near means that the distance between them is less than the minimal distance which is a property of the point, and is measured in pixel units).
+# Network: There is the possibility to run one CaRMetal figure as server (typically, the teacher's one) and several as clients.
+
+==CaRMetal related links==
+* [[http://db-maths.nuxit.net/CaRMetal/index_en.html | CaRMetal Official site]] 
+* [[http://db-maths.nuxit.net/CaRMetal/index_en.html | CaRMetal Downloads for various Platform]]

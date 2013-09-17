@@ -1,0 +1,5 @@
+HOMEPAGE=http://db-maths.nuxit.net/CaRMetal/index_en.html
+DOWNLOAD_URL=http://db-maths.nuxit.net/CaRMetal/download/carmetal_setup.exe
+VERSION=3.8.2
+EXECUTABLE_NAME=carmetal_setup.exe
+LINUX_NAME=7_zip
