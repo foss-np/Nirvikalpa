@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.getsongbird.com/
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/songbird.mirror/Songbird%202.2.0/Songbird_2.2.0-2453_windows-i686-msvc8.exe
+VERSION=2.2.0-2453
+EXECUTABLE_NAME=Songbird_2.2.0-2453_windows-i686-msvc8.exe
+LINUX_NAME=SongBird

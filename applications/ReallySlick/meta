@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.reallyslick.com/
+DOWNLOAD_URL=downloads.sourceforge.net/project/rssavers/rssavers/0.2/ReallySlickScreensavers-0.2_installer.exe
+VERSION=0.2
+EXECUTABLE_NAME=ReallySlickScreensavers-0.2_installer.exe
+LINUX_NAME=ReallySlickScreensavers
