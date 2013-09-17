@@ -1,0 +1,17 @@
+==About Guido van Robot 4.4==
+Guido van Robot, or GvR for short, is a programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming. 
+{{images/GvR.png}}
+==Features of Guido van Robot 4.4==
+# Guido van Robot is a minimalistic programming language providing just enough syntax to help students learn the concepts of sequencing, conditional branching, looping and procedural abstraction. 
+# Block Structuring: Each Guido van Robot instruction must be on a separate line. A sequence of one or more Guido van Robot instructions that are all indented the same number of spaces compose a block of code.   
+# Conditional branching refers to the ability of a program to alter it's flow of execution based on the result of the evaluation of a conditional. The three types of conditional branching instructions in Guido van Robot are if and if/else and if/elif/else. 
+# Conditionals: GvR has eighteen built-in tests that are divided into three groups: the first six are wall tests, the next four are beeper tests, and the last eight are compass tests.
+# Iteration refers to the ability of a program to repeate an instruction (or block of instructions) over and over until some condition is met. The two types of iteration instructions are the do and while instructions.  
+
+
+==Guido van Robot related links==
+* [[http://gvr.sourceforge.net/documents/languageRef/gvr.html | Guido van Robot Language Reference]] 
+* [[http://gvr.sourceforge.net/lessons/rfrank/ | The Roger Frank Lessons]] Introduction to Computer Science: GvR Unit
+* [[https://lists.sf.net/lists/listinfo/gvr-devel | Mailinglists]] You can join mailinglist for help and contribution.
+
+

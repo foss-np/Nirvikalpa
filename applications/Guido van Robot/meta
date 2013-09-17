@@ -1,0 +1,5 @@
+HOMEPAGE=http://gvr.sourceforge.net/index.php
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/gvr/GvR%20GTK/4.4/GvRng-4.4_win32.exe
+VERSION=4.4
+EXECUTABLE_NAME=GvRng-4.4_win32.exe
+LINUX_NAME=Guido van Robot
