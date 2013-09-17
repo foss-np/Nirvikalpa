@@ -2,12 +2,12 @@
 TuxMath is an arcade game that helps kids practice their math facts. The main goal is to make it effective and fun! Lessons are included from simple number typing through addition, subtraction, multiplication, and division of positive and negative numbers. With their skills, the kids will defend penguins from incoming comets, or offers them a chance to explore the asteroid belt with only their factoring abilities to bring them through safely!
 {{images/TuxMath.jpg}}
 ==Features==
-Fun arcade-style math game
-Practice addition, subtraction, multiplication, division, negatives, and more!
-NEW - multiplayer LAN competition
-Factoroids - learn factoring while blasting rocks floating in space!
-Translations to over 40 languages
-Available for Windows, Mac OS-X, and Linux/Unix
-Complete source code under GPLv3+
+*Fun arcade-style math game
+*Practice addition, subtraction, multiplication, division, negatives, and more!
+*NEW - multiplayer LAN competition
+*Factoroids - learn factoring while blasting rocks floating in space!
+*Translations to over 40 languages
+*Available for Windows, Mac OS-X, and Linux/Unix
+*Complete source code under GPLv3+
 ==Related Links==
 *http://homeschoolmath.blogspot.com/2011/05/tux-math.html
