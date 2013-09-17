@@ -1,0 +1,5 @@
+HOMEPAGE=http://mirror.squ.edu.om/OpenDVD/en/nevergames.html
+DOWNLOAD_URL=http://mirror.squ.edu.om/OpenDVD/programs/nevergames.exe
+VERSION=1.5.4
+EXECUTABLE_NAME=nevergames.exe
+LINUX_NAME=Nevergames
