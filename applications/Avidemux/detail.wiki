@@ -1,0 +1,17 @@
+==About Avidemux [2.6.4]==
+Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks. It supports many file types, including AVI, DVD compatible MPEG files, MP4 and ASF, using a variety of codecs. Tasks can be automated using projects, job queue and powerful scripting capabilities.  Avidemux is available for Linux, BSD, Mac OS X and Microsoft Windows under the GNU GPL license. The program was written from scratch by Mean, but code from other people and projects has been used as well.
+{{images/Avidemux.png}}
+==Features==
+Non-linear video editing
+Apply filters and effects
+Transcode into various formats
+Insert or extract audio streams
+Subtitle processor
+Project system
+Powerful scripting capabilities
+Graphical or command line interfaces
+Video encoders: MPEG-4 AVC, XviD, MPEG-4 ASP, MPEG-2 Video, MPEG-1 Video, DV, ...
+Audio encoders: AC-3, AAC, MP3, MP2, Vorbis, PCM, ...
+Container: AVI, MPEG-PS/TS, MP4, MKV, FLV, OGM, ...
+==Related Links==
+*http://video-editing.findthebest.com/l/34/Mean-Avidemux

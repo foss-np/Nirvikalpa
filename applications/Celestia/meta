@@ -1,6 +1,5 @@
 HOMEPAGE=http://www.shatters.net/celestia/
-# Site not working at the moment.
-DOWNLOAD_URL=TODO
-VERSION=1.6.0
+DOWNLOAD_URL=http://sourceforge.net/projects/celestia/files/Celestia-win32-bin/1.6.1/celestia-win32-1.6.1.exe/
+VERSION=1.6.1
 EXECUTABLE_NAME=celestia-win32-1.6.0.exe
-LINUX_NAME=celestia
+LINUX_NAME=Celestia
