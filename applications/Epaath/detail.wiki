@@ -1,0 +1,13 @@
+==About Epaath==
+Epaath is grade specific digital learning material developed by OLE which contains materials from grade 2 to 6 in subjects like Math, Nepali, Science and English. These contents have been authorised by the Governmental Bodies.
+{{images/epaath.jpg}}
+==Features of Epaath==
+# Contents Divided accoring to the week syllabuls
+# Interactive and user friendly contents
+# Learning through games techniques used
+# Classwork and assignments for every chapter
+
+==Epaath related links==
+* [[www.pustakalaya.org/external-content/static/epaath/epaath/‎]] Online Demo of Epaath
+* [[http://www.olenepal.org/e-paath/]] Official Description of Epaath by OLE
+* [[http://wiki.laptop.org/go/Epaath]] Wiki Description of Epaath
