@@ -1,0 +1,21 @@
+==About Enigma 1.20==
+Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga. The object of the game is to find uncover pairs of identically colored Oxyd stones. Simple? Yes. Easy? Certainly not! Hidden traps, vast mazes, laser beams, and, most of all, countless hairy puzzles usually block your direct way to the Oxyd stones …
+{{images/enigma.png}}
+==Features of Enigma 1.20==
+# Puzzle game with a dexterity component.
+# Non violent - a game for young and old.
+# More than 1000 different levels guarantee longtime entertainment.
+# Stable 1.00 Release with more than 200 000 downloads in two months.
+# Translated to many languages:
+ English  German  French  Spanish  Portuguese  Italian  Dutch  Swedish  Finnish  Russian  Hungarian
+# High-resolution 2D graphics.
+# Realistic physics simulation.
+# More than 500 different game objects.
+# Available for all Windows versions, Mac OSX, most Linux distributions, many other Unix versions.
+
+==Enigma 1.20 related links==
+* [[http://en.wikipedia.org/wiki/Enigma_(video_game)]] An overview of enigma from wiki
+* [[http://www.lgdb.org/game/enigma]] Description of game in lgdb database
+* [[http://community.linuxmint.com/software/view/enigma]] Linux Mint community view about enigma
+
+
