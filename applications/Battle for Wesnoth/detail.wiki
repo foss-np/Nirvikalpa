@@ -1,0 +1,20 @@
+==About The Battle for Wesnoth 1.10.7==
+The Battle for Wesnoth is a Free, turn-based tactical strategy game with a high fantasy theme, featuring both single-player, and online/hotseat multiplayer combat. Fight a desperate battle to reclaim the throne of Wesnoth, or take hand in any number of other adventures.
+{{images/battle.jpg}}
+==Features of The Battle for Wesnoth 1.10.7==
+#Build up a formidable fighting force, starting from a single leader and a small amount of gold.
+#Over two hundred unit types in six major factions, all with distinctive abilities, weapons and spells.
+#Experienced units gain powerful new abilities as they advance.
+#Several multiplayer options available, including Internet play.
+#Scores of different custom-designed map and unlimited random maps.
+#Hundreds of campaign scenarios available for download through a simple in-game procedure.
+#Fog of War feature available for a true test of generalship.
+#Sophisticated markup language lets advanced users make their own maps, factions, or campaigns.
+#Excellent language support — 35 different languages currently available.
+#Compatible with Windows, Mac OS X, GNU/Linux, RISC OS, BeOS, Solaris, FreeBSD, OpenBSD, NetBSD, DragonFly BSD, AmigaOS4, OS/2, and eComStation.
+==The Battle for Wesnoth 1.10.7 related links==
+* [[http://www.wesnoth.org/ ]] Official Site for The Battle for Wesnoth
+* [[http://wiki.wesnoth.org/Description]] Wiki for The Battle for Wesnoth
+* [[http://www.desura.com/games/battle-for-wesnoth]] Review of The Battle for Wesnoth
+
+
