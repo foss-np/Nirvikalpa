@@ -1,0 +1,15 @@
+==About Scribus 1.4.3==
+Scribus is an Open Source program that brings professional page layout to Linux, BSD UNIX, Solaris, OpenIndiana, GNU/Hurd, Mac OS X, OS/2 Warp 4, eComStation, Haiku and Windows desktops with a combination of press-ready output and new approaches to page design. 
+{{images/Scribus.png}}
+==Features of Scribus 1.4.3==
+#The aspect that's most easily to understand: The software is Free. You don't have to pay us a dime. Scribus is distributed under the General Public License (with a few exceptions), which makes it free and legal for use in any setting, including commercial and governmental organizations. The license also permits anyone to modify the publicly available source code without having to ask for permission.
+#Professionals and amateurs are producing top-quality publications with Scribus, which is why the list of the Scribus success stories keeps growing year after year.
+#Scribus-produced PDF files are RIP-ready. Scribus PDFs are being constantly tested on both cutting edge printing house equipment and low-budget printers. The Scribus Team makes it its highest priority to respond to PDF generation inquiries without delay. Scribus was the first software to support several new generations of Adobe's PDF specifications well ahead of the commercial software. 
+
+
+==Scribus related links==
+* [[http://wiki.scribus.net/canvas/Category:HOWTO | Scribus: An Open Source Publishing Tool]] How-Tos
+* [[http://lists.scribus.info/mailman/listinfo/scribus | Scribus mailing lists]]
+* [[http://wiki.scribus.net/index.php/Books | Books on Scribus]] Books in several languages have been published about Scribus, so you can probably find one that'll get you started right away. 
+
+

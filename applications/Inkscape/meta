@@ -1,0 +1,5 @@
+HOMEPAGE=http://http://inkscape.org/
+DOWNLOAD_URL=http://kaz.dl.sourceforge.net/project/inkscape/inkscape/0.48.4/inkscape-0.48.4-1-win32.exe
+VERSION=0.48.4
+EXECUTABLE_NAME=inkscape-0.48.4-1-win32.exe
+LINUX_NAME=Inkscape

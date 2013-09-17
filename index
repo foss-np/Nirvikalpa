@@ -1,9 +1,41 @@
 Desktop Applications 
 * 7 Zip 
-Educational 
-* Celestia 
-Games 
-Graphics 
+Educational
+* Juniors 
+** TuxPaint
+** TuxMath
+** TuxType
+** Stellarium
+** Gcompris
+* Advanced
+** CaRMetal
+** Guido van Robot
+** Maxima
+** PSPP
+** UGENE
+** BioViz
+Games
+* Battle for Wesnoth
+* Enigma
+* OpenArena
+* Nevergames
+* PokerTH
+* Sokoban YASC
+* SuperTux
+* SuperTuxKart
+* Game emulators
+** zsnes
+** DeSmuME
+** DOSBOX
+* gbrainy
+* StuntRally
+* FlightGear
+* GL-117
+Graphics
+* Blender
+* Dia
+* Inkscape
+* Scribus
 Internet 
 Server 
 Sound and Video 

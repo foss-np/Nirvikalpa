@@ -1,0 +1,5 @@
+HOMEPAGE=http://http://www.scribus.net
+DOWNLOAD_URL=http://kaz.dl.sourceforge.net/project/scribus/scribus/1.4.3/scribus-1.4.3-windows.exe
+VERSION=1.4.3
+EXECUTABLE_NAME=scribus-1.4.3-windows.exe
+LINUX_NAME=Scribus
