@@ -1,0 +1,8 @@
+==About TuxType [1.8.1]==
+TuxTyping is an educational typing tutor for kids starring Tux, the Linux penguin. This educational game comes with two different games for practicing your typing, and having a great time doing it. Tux the penguin is hungry, and loves to eat you you type the right letters in time!
+{{images/TuxType.jpg}}
+==Features==
+Learning to type
+==Related Links==
+*http://community.linuxmint.com/software/view/tuxtype
+

@@ -1,0 +1,5 @@
+HOMEPAGE=http://tux4kids.alioth.debian.org/tuxmath.php
+DOWNLOAD_URL=http://sourceforge.net/projects/tuxmath/files/tuxmath-win32/TuxMath%202.0.2%20-%20Windows/tuxmath-2.0.2-win32-installer.exe
+VERSION=2.0.2
+EXECUTABLE_NAME=TuxMath
+LINUX_NAME=TuxMath

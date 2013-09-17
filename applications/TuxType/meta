@@ -1,0 +1,5 @@
+HOMEPAGE=http://tux4kids.alioth.debian.org/tuxtype/
+DOWNLOAD_URL=http://kaz.dl.sourceforge.net/project/tuxtype/tuxtype-win32/TuxType%201.8.1%20-%20Windows/tuxtype-1.8.1-win32-installer.exe     
+VERSION=1.8.1
+EXECUTABLE_NAME=TuxType
+LINUX_NAME=TuxType
