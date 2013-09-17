@@ -3,16 +3,16 @@ TuxGuitar is a full featured music composition tool that can be really helpful t
 TuxGuitar features a nicely-designed interface with clear, simple lines that makes music composition tasks into lighter work. Besides composing on the tablature, you can also use a virtual guitar fretboard or piano keyboard to make composition even easier. What's more, TuxGuitar lets you play the songs you compose, using one of the many instruments included in it.
 {{images/TuxGuitar}}
 ==Features==
-Tablature editor
-Score Viewer
-Multitrack display
-Autoscroll while playing
-Note duration management
-Various effects (bend, slide, vibrato, hammer-on/pull-off)
-Support for triplets (5,6,7,9,10,11,12)
-Repeat open and close
-Time signature management
-Tempo management
-Imports and exports gp3,gp4 and gp5 files
+*Tablature editor
+*Score Viewer
+*Multitrack display
+*Autoscroll while playing
+*Note duration management
+*Various effects (bend, slide, vibrato, hammer-on/pull-off)
+*Support for triplets (5,6,7,9,10,11,12)
+*Repeat open and close
+*Time signature management
+*Tempo management
+*Imports and exports gp3,gp4 and gp5 files
 ==Related Links==
 *http://trollcavemusic.blogspot.com/2010/02/gear-review-tuxguitar.html
