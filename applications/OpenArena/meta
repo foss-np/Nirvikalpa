@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.openarena.ws/smfnews.php
+DOWNLOAD_URL=http://www.gamefront.com/files/?filepath=/moddb/2012/02/19/openarena-0.8.8.zip
+VERSION=0.8.8
+EXECUTABLE_NAME=
+LINUX_NAME=openarena

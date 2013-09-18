@@ -1,0 +1,18 @@
+==About OpenArena 0.8.8==
+OpenArena is a free and open source first-person shooter (FPS) computer game based heavily on the Quake III Arena-style deathmatch. The OpenArena project was established on August 19, 2005, the day after the id Tech 3 GPL source code was released.
+{{images/openarena.jpg}}
+==Features of OpenArena 0.8.8==
+#   Completely Free and OpenSource fast-paced, arcade-like, First Person Shooter game.
+#   It's cross-platform, being available for Windows, Linux, Macintosh systems, and tons of other platforms. It also does not require high-end hardware.
+#   Includes 13 different weapons, 51 stock arenas, 18 player characters with their respective teamskins and additional skins, and 12 Gametypes, including both team-free and team-based modes (Free For All, Last Man Standing, Capture the Flag, Domination, etc.), plus a Single Player Deathmatch "unlock tiers" mode.
+#   Can be played offline and online. No registration required.
+#   It can be greatly expanded thanks to support for third party maps, mods and bots, including third party stuff designed for the popular Quake III Arena game.
+#   Additional options for botplay/online play include features such as Instantgib, All rockets and Vampire mode.
+#   Anyone can setup and run his own LAN or Internet game server freely, with support for admin-defined map rotation scripts or auto change map feature, and voting. Servers can be password-protected and can be remotely controlled.
+#   Fast automatic download feature for getting extra stuff required to play on specific servers (automatic download option is disabled by default, considering that such extra stuff may not comply with GPLv2).
+
+==OpenArena related links==
+* [[http://openarena.wikia.com/wiki/Main_Page]] An overview of how to install and use openarena
+* [[http://www.moddb.com/games/openarena]] Description of openaren by moddb
+
+
