@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.mingw.org/
+DOWNLOAD_URL=http://hivelocity.dl.sourceforge.net/project/mingw/Other/Cross-Hosted%20MinGW%20Build%20Tool/x86-mingw32-build-1.0/x86-mingw32-build-1.0-sh.tar.bz2
+VERSION=2.0
+EXECUTABLE_NAME=MinGW-w32.exe
+LINUX_NAME=mingw

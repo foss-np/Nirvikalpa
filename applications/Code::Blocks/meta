@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.codeblocks.org/
+DOWNLOAD_URL=http://prdownload.berlios.de/codeblocks/codeblocks-12.11-setup.exe
+VERSION=12.11
+EXECUTABLE_NAME=codeblocks-12.11-setup.exe
+LINUX_NAME=codeblocks

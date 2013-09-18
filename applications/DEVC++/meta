@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.bloodshed.net/devcpp.html
+DOWNLOAD_URL= http://sourceforge.net/projects/dev-cpp/files/Binaries/Dev-C%2B%2B%204.9.9.2/devcpp-4.9.9.2_setup.exe/download?use_mirror=kaz
+VERSION=4
+EXECUTABLE_NAME=devcpp-4.9.9.2_setup.exe
+LINUX_NAME=devc++

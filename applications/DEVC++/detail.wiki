@@ -1,0 +1,31 @@
+==About Dev C++ 4==
+Bloodshed Dev-C++ is a full-featured Integrated Development Environment (IDE) for the C/C++ programming language. It uses Mingw port of GCC (GNU Compiler Collection) as it's compiler. Dev-C++ can also be used in combination with Cygwin or any other GCC based compiler.
+{{images/devc.png}}
+==Features of Dev C++ 4==
+# Support GCC-based compilers
+# Integrated debugging (using GDB)
+# Support for multiple languages (localization)
+# Class Browser
+# Code Completion
+# Debug variable Browser
+# Project Manager
+# Customizable syntax highlighting editor
+# Quickly create Windows, console, static libraries and DLLs
+# Support of templates for creating your own project types
+# Makefile creation
+# Edit and compile Resource files
+# Tool Manager
+# Print support
+# Find and replace facilities
+# Package manager, for easy installation of add-on libraries
+# CVS Support
+# To-Do List
+# CPU Window
+# Useful for batch files to automate backup chores.
+
+==Dev C++ related links==
+* [[http://www.bloodshed.net/dev/devcpp.html]] An overview of how to install and use Dev C++
+* [[http://orwelldevcpp.blogspot.com/]] Development Releases of Dev C++
+
+
+

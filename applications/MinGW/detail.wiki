@@ -1,0 +1,15 @@
+==About MinGW 2==
+MinGW: A native Windows port of the GNU Compiler Collection (GCC), with freely distributable import libraries and header files for building native Windows applications; includes extensions to the MSVC runtime to support C99 functionality. All of MinGW's software will execute on the 64bit Windows platforms.
+{{images/mingw.jpg}}
+==Features of MinGW 2==
+# A port of the GNU Compiler Collection (GCC), including C, C++, ADA and Fortran compilers;
+# GNU Binutils for Windows (assembler, linker, archive manager)
+# A command-line installer (mingw-get) for MinGW and MSYS deployment on MS-Windows
+# A GUI wrapper (mingw-get-inst) for the command line installer
+
+==MinGW related links==
+* [[http://mingw-w64.sourceforge.net/]] An overview of how to install and use MinGW
+* [[http://nuwen.net/mingw.html]] Details on included packages and installation
+* [[http://tdm-gcc.tdragon.net/]] Toolset containing MinGW
+
+

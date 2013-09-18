@@ -1,0 +1,43 @@
+==About Code Blocks 12.11==
+Code::Blocks is a free C++ IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
+
+Finally, an IDE with all the features you need, having a consistent look, feel and operation across platforms.
+
+Built around a plugin framework, Code::Blocks can be extended with plugins. Any kind of functionality can be added by installing/coding a plugin. For instance, compiling and debugging functionality is already provided by plugins!
+{{images/codeblocks.jpg}}
+==Features of Code Blocks 12.11==
+# Multiple compiler support:
+    GCC (MingW / GNU GCC)
+    MSVC++
+    Digital Mars
+    Borland C++ 5.5
+    Open Watcom
+# Debugger:
+    Interfaces GNU GDB
+    Also supports MS CDB (not fully featured)
+    Full breakpoints support:
+    Code breakpoints
+    Data breakpoints (read, write and read/write)
+    Breakpoint conditions (break only when an expression is true)
+    Breakpoint ignore counts (break only after certain number of hits)
+    Display local function symbols and arguments
+    User-defined watches (support for watching user-defined types through scripting)
+    Call stack
+    Disassembly
+    Custom memory dump
+
+# View CPU registers
+# Very fast custom build system (no makefiles needed)
+# Support for parallel builds (utilizing your CPU's extra cores)
+# Multi-target projects
+# Workspaces to combine multiple projects
+# Inter-project dependencies inside workspace
+# Imports MSVC projects and workspaces (NOTE: assembly code not supported yet)
+# Imports Dev-C++ projects
+
+==Code Blocks related links==
+* [[http://www.cprogramming.com/code_blocks/]] An overview of how to install and use code blocks and mingw
+* [[http://www.openframeworks.cc/setup/codeblocks/]] Setting up code blocks
+
+
+
