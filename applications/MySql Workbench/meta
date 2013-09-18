@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.mysql.com/products/workbench/
+DOWNLOAD_URL=http://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-6.0.6-win32.msi
+VERSION=6.0.6
+EXECUTABLE_NAME=mysql-workbench-community-6.0.6-win32.msi
+LINUX_NAME=mysql-workbench

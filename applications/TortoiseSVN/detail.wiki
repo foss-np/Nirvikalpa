@@ -1,0 +1,18 @@
+==About Tortoise SVN 1.8.1==
+A Subversion client, implemented as a windows shell extension.
+
+TortoiseSVN is a really easy to use Revision control / version control / source control software for Windows. 
+Since it's not an integration for a specific IDE you can use it with whatever development tools you like. 
+TortoiseSVN is free to use. You don't need to get a loan or pay a full years salary to use it.
+{{images/tsvn.png}}
+==Features of Tortoise SVN 1.8.1==
+# powerful commit dialog
+# fast log UI
+# Revision graph
+
+==Tortoise SVN  related links==
+* [[http://tortoisesvn.net/]] An overview of Tortoise SVN
+* [[http://www.visualsvn.com/visualsvn/download/tortoisesvn/]] Visual integration for Tortoise SVN
+
+
+

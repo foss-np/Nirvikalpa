@@ -1,0 +1,19 @@
+==About Git 1.8.4==
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+{{images/git.png}}
+==Features of Git 1.8.4==
+# Branching and Merging
+# Small and Fast
+# Distributed
+# Data Assurance
+# Staging Area
+# Free and Open Source
+
+==Git related links==
+* [[http://git-scm.com/documentation]] An overview of Git
+* [[http://gitref.org/]] Contains commonly used git commands
+* [[http://try.github.io/levels/1/challenges/1]] Learn git through Challenges
+
+

@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.apachefriends.org/en/xampp.html
+DOWNLOAD_URL=http://kaz.dl.sourceforge.net/project/xampp/XAMPP%20Windows/1.8.2/xampp-win32-1.8.2-2-VC9-installer.exe
+VERSION=1.8.2
+EXECUTABLE_NAME=xampp-win32-1.8.2-2-VC9-installer.exe
+LINUX_NAME=xampp

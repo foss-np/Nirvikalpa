@@ -1,0 +1,5 @@
+HOMEPAGE=http://tortoisesvn.net/
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/tortoisesvn/1.8.1/Application/TortoiseSVN-1.8.1.24570-win32-svn-1.8.1.msi?r=http%3A%2F%2Ftortoisesvn.net%2Fdownloads.html&ts=1376411580&use_mirror=kaz
+VERSION=1.8.1
+EXECUTABLE_NAME=TortoiseSVN-1.8.1.24570-win32-svn-1.8.1.msi
+LINUX_NAME=tortoisesvn

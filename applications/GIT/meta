@@ -1,0 +1,5 @@
+HOMEPAGE=http://git-scm.com/
+DOWNLOAD_URL=http://github-windows.s3.amazonaws.com/GitHubSetup.exe
+VERSION=1.8.4
+EXECUTABLE_NAME=GitHubSetup.exe
+LINUX_NAME=git

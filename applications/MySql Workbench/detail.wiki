@@ -1,0 +1,25 @@
+==About MySql Workbench 6.0.6==
+MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more. MySQL Workbench is available on Windows, Linux and Mac OS X.
+{{images/mysqlwork.gif}}
+==Features of MySql Workbench 6.0.6==
+# Visual SQL Development
+# Visual Database Administration
+# User and Session Management
+# Connection Management
+# Object Management
+# Data Management
+# Visual Data Modeling
+# Reverse Enginnering
+# Forward Enginnering
+# Schema Synchronization
+# Schema & Model Validation 1
+# DBDoc 1
+# GUI for MySQL Enterprise Backup 1
+# GUI for MySQL Enterprise Audit 1
+# Scripting & Plugins
+# Database Migration
+
+==MySql Workbench related links==
+* [[http://www.mysql.com/products/workbench/] An overview of Mysql Workbench
+* [[http://en.wikipedia.org/wiki/MySQL_Workbench]] Wiki of MySql Workbench
+
