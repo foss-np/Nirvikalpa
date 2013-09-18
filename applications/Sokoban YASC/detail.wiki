@@ -1,0 +1,30 @@
+==About Sokoban YASC 1.595==
+Sokoban YASC - Yet Another Sokoban Clone - for Windows. A wealth of features, e.g., deadlock detection, reverse mode, and replay mode. Good import functions and highly configurable, e.g., skins. Tools: Editor, solver, optimizer, and generator.
+{{images/sokoban.jpg}}
+==Features of Sokoban YASC 1.595==
+# Ergonomically perfected basic operations, e.g.,
+# .......Drag-and-drop boxes and the pusher
+# .......Unlimited undo/redo
+# Superior gameplay features, e.g.,
+# ........Reverse mode play - some levels are easier to solve backwards
+# ........Deadlock detection - get help avoiding trivial - and not so trivial - blunders
+# ........Snapshots - explore different paths, keeping them for later
+# ........Multiple views - play different paths simultaneously on the screen
+# Large skin collection
+# ........Professionally designed skins
+# ........Skins carefully optimized for the best gameplay experience
+# ........Imports skins directly from several major Sokoban clones
+# High-quality tools
+# ........Editor - create your own levels
+# ........Solver - get help solving small levels
+# ........Optimizer - polish your solutions
+# ........Generator - generate new levels automatically
+# ........Capture - extract levels and skins from images with a few mouse clicks
+#........Duplicate finder - compare your level collections, synchronize solutions
+
+==Sokoban YASC  related links==
+* [[http://www.sokobano.de/en/games.php]] An overview of Sokobano and its clones
+* [[http://www.joriswit.nl/sokoban/en/solvers.htm]] List of Sokobano Plugins
+* [[http://sourceforge.net/projects/sokobanyasc/support?source=navbar]] Get support from Sokobano Developers
+
+
