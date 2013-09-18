@@ -1,0 +1,5 @@
+HOMEPAGE=http://supertuxkart.sourceforge.net/Discover
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/supertuxkart/SuperTuxKart/0.8/supertuxkart-0.8-win.exe
+VERSION=0.8
+EXECUTABLE_NAME=suptertuxkart-0.8-win.exe
+LINUX_NAME=supertuxkart
