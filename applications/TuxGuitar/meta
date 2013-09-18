@@ -1,0 +1,5 @@
+HOMEPAGE=http://tuxguitar.herac.com.ar/
+DOWNLOAD_URL=downloads.sourceforge.net/project/tuxguitar/TuxGuitar/TuxGuitar-1.2/tuxguitar-1.2-windows-x86-installer.exe
+VERSION=1.2
+EXECUTABLE_NAME=tuxguitar-1.2-windows-x86-installer.exe
+LINUX_NAME=TuxGuitar

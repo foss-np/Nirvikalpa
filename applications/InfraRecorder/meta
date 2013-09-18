@@ -1,0 +1,5 @@
+HOMEPAGE=http://infrarecorder.org/
+DOWNLOAD_URL=http://sourceforge.net/projects/infrarecorder/files/InfraRecorder/0.53/ir05
+VERSION=0.53
+EXECUTABLE_NAME=ir053.exe
+LINUX_NAME=

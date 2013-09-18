@@ -1,0 +1,5 @@
+HOMEPAGE=http://audacity.sourceforge.net/
+DOWNLOAD_URL=http://audacity.googlecode.com/files/audacity-win-2.0.3.exe
+VERSION=2.0.3
+EXECUTABLE_NAME=audacity-win-2.0.3.exe
+LINUX_NAME=Audacity

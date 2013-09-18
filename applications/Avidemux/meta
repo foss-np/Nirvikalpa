@@ -1,0 +1,5 @@
+HOMEPAGE=http://avidemux.sourceforge.net/
+DOWNLOAD_URL=http://sourceforge.net/projects/avidemux/files/avidemux/2.6.4/avidemux_2.6.4_win32.exe
+VERSION=2.6.4
+EXECUTABLE_NAME=avidemux_2.6.4_win32.exe
+LINUX_NAME=Avidemux

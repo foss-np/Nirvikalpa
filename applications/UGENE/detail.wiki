@@ -1,0 +1,32 @@
+==About UGENE 1.12.1==
+UGENE is a free open-source cross-platform bioinformatics software. It works perfectly on Windows, Mac OS and Linux and requires only a few clicks to install
+
+{{images/UGENE.png}}
+==Features of UGENE 1.12.1==
+# Creating, editing and annotating nucleic acid and protein sequences
+# Search through online databases: NCBI, PDB, UniProtKB/Swiss-Prot, UniProtKB/TrEMBL
+# Multiple sequence alignment: Clustal, MUSCLE, Kalign, MAFFT, T-Coffee
+# Online and local BLAST search
+# Restriction analysis with integrated REBASE restriction enzyme database
+# Integrated Primer3 package for PCR primers design
+# Search for direct, inverted and tandem repeats in DNA sequences
+# Constructing dotplots for nucleic acid sequences
+# Search for transcription factor binding sites (TFBS) with weight matrix and SITECON algorithms
+# Aligning short reads with Bowtie, BWA and UGENE Genome Aligner
+# Search for ORFs
+# Cloning in silico
+# 3D structure viewer for files in PDB and MMDB formats, anaglyph view support
+# Protein secondary structure prediction with GOR IV and PSIPRED algorithms
+# HMMER2 and HMMER3 packages integration
+# Building (using integrated PHYLIP package) and viewing phylogenetic trees
+# Local sequence alignment with optimized Smith-Waterman algorithm
+# Combining various algorithms into custom workflows with UGENE Workflow Designer
+# Search for a pattern of various algorithms' results in a nucleic acid sequence with UGENE Query Designer
+# Visualization of next generation sequencing data (BAM files) using UGENE Assembly Browser
+
+==UGENE related links==
+* [[http://ugene.unipro.ru/documentation.html |  UGENE is a free open-source cross-platform bioinformatics software ]] Documentations
+* Watch [[http://ugene.unipro.ru/podcast.html | UGENE instructional videos]]
+* [[https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=DjDX-TmCDYx8DBJPkJYaaMVpFaaOyFoKaPYmzC7TtDrdFHq8t6fUK6hGuq4&dispatch=5885d80a13c0db1f8e263663d3faee8d0038486cd0d9a2f30f3a21df7b0d0cee| Donate to UGENE]] 
+
+

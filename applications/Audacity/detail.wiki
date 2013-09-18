@@ -1,0 +1,18 @@
+==About Audacity [2.0.3]==
+Audacity is free, open source, cross-platform software for recording and editing sounds.  Audacity succeeds at being both feature-rich and flexible, while keeping the toolbar and work space uncluttered. It does this by relegating most functions--such as effects, edits, and project management--to handy drop-down menus.
+
+Audacity supports uncompressed audio standards such as WAV and AIFF in addition to OGG and MP3 files. A full complement of basic effects such as reverb, delay, and compression are included. Virtual Studio Technology (VST), Linux Audio Developers Simple Plugin Architecture (LAPSDA), and Nyquist plug-ins also are available if you're looking to expand. Another eye-catching feature is the Beat Analyzer, which helps you peg the beats per minute of a phrase.
+{{images/audacity.png}}
+==Features==
+*Recording
+*Import and Export
+*Sound Quality
+*Editing
+*Accessibility
+*Effects
+*Plug-ins
+*Analysis
+==Related Links==
+*http://www.snapfiles.com/userreviews/104027/audacity.html
+*http://podcast-software-review.toptenreviews.com/audacity-review.html
+

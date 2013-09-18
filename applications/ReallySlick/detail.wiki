@@ -1,0 +1,19 @@
+==About Really Slick [0.2]==
+Really Slick is a one-man outfit making computer graphics stuff for fun. It started sometime around 1997 as Really Slick Screensavers, eventually releasing twelve savers and evolving to support itself with Google ads. More recently it has turned into the home of the indie game Retrobooster, which is still in development.
+{{images/ReallySlickEuphoria.jpg}}
+==Features==
+*Screensavers included:
+**Cyclone
+**Euphoria
+**Field Lines
+**Flocks
+**Flux
+**Helios
+**Hyperspace
+**Lattice
+**Microcosm
+**Plasma
+**Skyrocket
+**Solar Winds
+==Related Links==
+*http://www.pcworld.com/article/238186/really_slick_screensavers.html

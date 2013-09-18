@@ -1,0 +1,5 @@
+HOMEPAGE=http://handbrake.fr
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/handbrake/0.9.9/HandBrake-0.9.9-1_x86_64-Win_GUI.exe
+VERSION=0.9.9-1
+EXECUTABLE_NAME=HandBrake-0.9.9-1_x86_64-Win_GUI.exe
+LINUX_NAME=HandBrake

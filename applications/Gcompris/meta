@@ -1,5 +1,5 @@
 HOMEPAGE=http://gcompris.net/-en-
 DOWNLOAD_URL=http://gcompris.net/download/gcompris-12.11.exe
 VERSION=12.11
-EXECUTABLE_NAME=Gcompris
+EXECUTABLE_NAME=gcompris-12.11.exe
 LINUX_NAME=Gcompris

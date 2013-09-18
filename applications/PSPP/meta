@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.gnu.org/software/pspp/pspp.html
+DOWNLOAD_URL=http://kaz.dl.sourceforge.net/project/pspp4windows/2013-07-24/pspp-080-20130724-32bits-Setup.exe
+VERSION=0/8/0
+EXECUTABLE_NAME=pspp-080-20130724-32bits-Setup.exe
+LINUX_NAME=PSPP
