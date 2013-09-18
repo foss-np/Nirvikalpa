@@ -1,0 +1,5 @@
+HOMEPAGE=http://sokobanyasc.sourceforge.net/
+DOWNLOAD_URL=[http://jaist.dl.sourceforge.net/project/sokobanyasc/sokobanyasc/Click_me_to_install_YASC_1_595.exe]
+VERSION=1.595
+EXECUTABLE_NAME=yasc.exe
+LINUX_NAME=yasc
