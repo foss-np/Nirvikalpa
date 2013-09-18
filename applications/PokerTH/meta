@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.pokerth.net/
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/pokerth/pokerth/1.0/PokerTH-1.0.1-windows-installer.exe
+VERSION=1.0.1
+EXECUTABLE_NAME=PokerTH.exe
+LINUX_NAME=pokerth
