@@ -1,0 +1,26 @@
+==About PokerTH 1.0.1==
+PokerTH is a poker game written in C++/Qt. You can play the popular Texas Hold'em poker variant against up to nine computer-opponents or play internet games with people all over the world. This poker engine is available for Linux, Windows and Mac
+{{images/pokerth.jpg}}
+==Features of PokerTH 1.0.1==
+# New Features since PokerTH 1.0:
+# Online log file analysis tool
+# Support for higher Android screen resolutions
+# Sound support for Android
+# Support for Windows 8 (desktop mode)
+# License change: OpenSSL exception (for Windows 8 support, because gcrypt currently crashes on Windows 8)
+# Server refactoring using google protocol buffers which basically enables use of html5 clients
+# Emoticons for the chat
+# Online game name in window title
+# New card deck version which supports changes of the action label position
+# Extra column in lobby game list for timeouts
+# Updated country flags
+# Enable activating the "accidentally call after big raise" blocker by default
+# Chatbot whitelist for poker expressions
+# new startwindow gfx for 1.0 final (thx to danuxi)
+# translation updates
+
+==PokerTH related links==
+* [[http://en.wikipedia.org/wiki/PokerTH]] An overview of PokerTH in wiki
+* [[http://portableapps.com/apps/games/pokerth_portable]] PokerTH in portableapps
+* [[http://www.poker-heroes.com/ranking/main-ranking.html]] PokerTH official ranking website
+
