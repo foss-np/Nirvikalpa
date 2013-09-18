@@ -1,0 +1,13 @@
+==About i8086emu 0.9.2==
+i8086emu is an cross-platform emulator for the Intel 8086 microprocessor. It has support for dynamically loadable device plugins and some peripherals like a PIT, PIC, 8-segment-displays, buttons and leds. i8086emu comes with an ncurses and an GTK-2 gui.
+It is basically designed for emulating a Single Board Computer 86 (SBC86) which is used in our microprocessor faculty. For this reason it consists of the original ROM of the SBC86 which is a whole debug-software with extra trace and step functionality.
+This piece of software is published under the GPL and therefore marked as open source. 
+{{images/i8086emu.png}}
+==Features of i8086emu 0.9.2==
+# It has support for dynamically loadable device plugins and some peripherals like a PIT, PIC, 8-segment-displays, buttons and leds.
+
+==i8086emu related links==
+* [[http://i8086emu.sourceforge.net/dl/i8086.pdf]] An overview of how to install and use i8086emu
+* [[http://askubuntu.com/questions/263737/i-could-not-configure-i8086emu-eventhough-gtk3-is-already-installed]] Configuring i8086emu
+
+

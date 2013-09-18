@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.umlet.com/
+DOWNLOAD_URL=http://www.umlet.com/umlet_12_0/umlet_12.0.zip
+VERSION=12.0
+EXECUTABLE_NAME=umlet.exe
+LINUX_NAME=umlet

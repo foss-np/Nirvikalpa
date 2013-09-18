@@ -1,0 +1,16 @@
+==About MonoDevelop 4.0==
+MonoDevelop is a cross-platform IDE primarily designed for C# and other .NET languages. MonoDevelop enables developers to quickly write desktop and ASP.NET Web applications on Linux, Windows and Mac OSX. MonoDevelop makes it easy for developers to port .NET applications created with Visual Studio to Linux and Mac OSX maintaining a single code base for all platforms.
+{{images/monodev.jpg}}
+==Features of MonoDevelop 4.0==
+# Supports Many Languages (Python, C, C++, Vala and Many More)
+# IDE Workbench(Solution Pad ...)
+# Customization
+# Project Management
+# Source Code Editing
+
+==MonoDevelop related links==
+* [[http://monodevelop.com/Documentation]] An overview of how to install and use Monodevelop
+* [[https://github.com/mono/monodevelop]] Git Repo for monodevelop
+* [[http://www.mono-project.com/Development_Environments]] Developing Environments
+* [[http://forum.unity3d.com/threads/185513-MonoDevelop-not-working-in-latest-version-4-1-5]] Related Issues
+

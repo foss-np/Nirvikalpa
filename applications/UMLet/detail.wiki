@@ -1,0 +1,16 @@
+==About UMLet 12.0==
+UMLet is a free, open-source UML tool with a simple user interface: draw UML diagrams fast, produce sequence and activity diagrams from plain text, export diagrams to eps, pdf, jpg, svg, and clipboard, share diagrams using Eclipse, and create new, custom UML elements. UMLet runs stand-alone or as Eclipse plug-in on Windows, OS X and Linux. (Also, check out its sister tool PLOTlet to create chart grids, our other tools, and our new web-based UMLet, called UMLetino v0.1experimental.)
+{{images/UMLet.jpg}}
+==Features of UMLet 12.0==	
+# Add elements to a UML diagram with a double click
+# Edit elements using the lower-right text panel
+# Select multiple elements using Ctrl or lasso
+# Press 'C' to copy diagram to the system clipboard
+# Use +/- or Ctrl+mousewheel to zoom
+
+==UMLet related links==
+* [[http://www.itmeyer.at/umlet/]] Some UML diagrams
+* [[http://freecode.com/projects/umlet]] Review of UMLet from freecode
+* [[http://www.umlet.com/umlet_12_0/com.umlet.plugin_12.0.0.jar]]] Eclipse Plugin of UMLet
+
+

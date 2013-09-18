@@ -1,0 +1,5 @@
+HOMEPAGE=http://monodevelop.com/
+DOWNLOAD_URL=http://download.xamarin.com/studio/Windows/XamarinStudio-4.0.12-3.msi
+VERSION=4.0
+EXECUTABLE_NAME=XamarinStudio-4.0.12-3.msi
+LINUX_NAME=monodevelop
