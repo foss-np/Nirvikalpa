@@ -1,0 +1,13 @@
+==About GBrainy 2.06==
+gbrainy is a brain teaser game for GNOME designed for use in education. It is licensed under the GNU GPL. The game was written in C#[4] and has since been ported to the Sugar graphical environment,[5] to Microsoft Windows, and there is also an on-line web version
+{{images/gbrainy.png}}
+==Features of GBrainy 2.06==
+# Logic puzzles. Games designed to challenge your reasoning and thinking skills.
+# Mental calculation. Games based on arithmetical operations designed to prove your mental calculation skills.
+# Memory trainers. Games designed to challenge your short term memory.
+# Verbal analogies. Games that challenge your verbal aptitude.
+
+==GBrainy related links==
+* [[http://www.makeuseof.com/tag/train-brain-stay-sharp-gbrainy-linux/]] An overview of using gbrainy to stay sharp
+* [[https://groups.google.com/forum/#!forum/gbrainy | GBrainy mailing lists]]
+

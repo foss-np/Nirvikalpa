@@ -1,0 +1,5 @@
+HOMEPAGE=https://wiki.gnome.org/gbrainy
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/gbrainy/gbrainy/2.06%20windows%20installer/gbrainy-206.exe
+VERSION=2.06
+EXECUTABLE_NAME=gbrainy-206.exe
+LINUX_NAME=gbrainy
