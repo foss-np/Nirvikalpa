@@ -1,0 +1,15 @@
+==About SuperTux 0.1.3==
+7-Zip is a file archive utility that can compress and uncompress a variety of archive formats including: ZIP, CAB, RAR, ARJ, GZIP, BZIP2, Z, TAR, CPIO, RPM and DEB. Its own file compression format 7z, can compress files 30-70% better than ZIP files.
+{{images/tux.png}}
+==Features of SuperTux 0.1.3==
+# 9 enemies
+# 26 playable levels
+# Software and OpenGL rendering modes
+# configurable joystick and keyboard input
+# new music
+# completely redone graphics
+
+==SuperTux related links==
+* [[http://wiibrew.org/wiki/SuperTux_Wii]] SuperTux Wiki
+* [[http://supertux.lethargik.org/contact.html]] Contact SuperTux Developers
+
