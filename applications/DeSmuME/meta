@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.desmume.com/
+DOWNLOAD_URL=http://jaist.dl.sourceforge.net/project/desmume/desmume/0.9.9/desmume-0.9.9-win32.zip
+VERSION=0.9.9
+EXECUTABLE_NAME=
+LINUX_NAME=desmume
