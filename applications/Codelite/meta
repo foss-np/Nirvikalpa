@@ -1,0 +1,5 @@
+HOMEPAGE=http://codelite.org/
+DOWNLOAD_URL=http://optimate.dl.sourceforge.net/project/codelite/Releases/codelite-5.2/codelite-5.2-mingw4.7.1.exe
+VERSION=5.2
+EXECUTABLE_NAME=codelite-5.2-mingw4.7.1.exe
+LINUX_NAME=codelite

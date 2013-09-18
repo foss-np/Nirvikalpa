@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.eclipse.org/
+DOWNLOAD_URL=http://ftp.daum.net/eclipse/technology/epp/downloads/release/kepler/R/eclipse-standard-kepler-R-win32.zip
+VERSION=4.3(Kepler)
+EXECUTABLE_NAME=eclipse.exe
+LINUX_NAME=eclipse

@@ -1,0 +1,25 @@
+==About CodeLite 5.2==
+CodeLite is an open-source, cross platform IDE for the C/C++ programming languages.
+{{images/codelite.png}}
+==Features of CodeLite 5.2==
+# Generic support for compilers
+# Can be easily extended with plugins (several plugins are already included in the installer)
+# Refactoing (rename symbol / rename locals / move functions and more)
+# Subversion plugin (based on the command line tool)
+# GIT plugin
+# Outline
+# cscope plugin
+# External Tools plugin
+# Gizmos plugin - for the creation of: C++ classes, wxWidgets projects, CodeLite plugins
+# Makefile based build system
+# Project explorer (Workspace view)
+# File Explorer
+# Imports MSVS workspace/projects and converts them to use a GNU-based makefile
+# Active-document outline
+# Sophisticated database-based Code Completion mechanism; a default database is supplied which contains symbols for wxWidgets, STL and standard headers
+
+==CodeLite  related links==
+* [[http://codelite.org/LiteEditor/Documentation]] An overview of how to install and use Codelite
+* [[http://sourceforge.net/p/codelite/bugs/]] List of bugs encounteted in Codelite
+
+

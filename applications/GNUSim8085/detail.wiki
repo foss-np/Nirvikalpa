@@ -1,0 +1,29 @@
+==About GNUSim8085 1.3.7==
+GNUSim8085 is a graphical simulator, assembler and debugger for the Intel 8085 microprocessor in GNU/Linux and Windows. It is among the 20 winners of the FOSS India Awards announced on February, 2008. GNUSim8085 was originally written by Sridhar Ratnakumar in fall 2003 when he realized that no proper simulators existed for Linux. Several patches, bug fixes and software packaging have been contributed by the GNUSim8085 community. GNUSim8085 users are encouraged to contribute to the simulator through coding, documenting, testing, translating and porting the simulator
+{{images/gnusim.png}}
+==Features of GNUSim8085 1.3.7==
+# Editor
+    Program editor with interactive input wizard for all the standard instructions
+    Syntax highlighting in editor to distinguish between instructions, operands, comments etc.
+    A separate opcode view which displays assembled code in hex
+# Assembler
+    Support for all standard instructions of the 8085
+    Minimalistic support for three assembler directives (.equ, .db, .ds) to control data locations, there exist no directives to directly control code locations
+    Code start is defined outside source code ("load me at" entry) - if not defined (default), code is generated (strangely) from 4200h (instead from the real reset vector 0000h)
+    Assembly results can be stored as listing file only (no binary file output)
+# Debugger
+    Complete view of registers and flags
+    Support for breakpoints
+    Step by step execution/debugging of program
+    Hex / Decimal Converter
+    Runtime inspection of stack and source code variables defined
+    Runtime inspection and manipulation of memory and I/O ports
+# Printing
+    Printing of program from editor as well as assembled hex code (known not to work well in Windows)
+
+==GNUSim8085  related links==
+* [[http://gnusim8085.org/]] An overview of how to install and use GNUSIM8085
+* [[http://stackoverflow.com/questions/9288474/how-do-i-check-my-result-in-gnusim8085]] Checking Results in GNUSIM8085
+* [[http://www.linuxforu.com/2011/08/gnusim8085-review/]] Review of GNUSIM8085
+
+

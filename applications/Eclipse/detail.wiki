@@ -1,0 +1,18 @@
+==About Eclipse 4.3(Kepler)==
+In computer programming, Eclipse is a multi-language Integrated development environment (IDE) comprising a base workspace and an extensible plug-in system for customizing the environment. It is written mostly in Java. It can be used to develop applications in Java and, by means of various plug-ins, other programming languages including Ada, C, C++, COBOL, Fortran, Haskell, JavaScript, Perl, PHP, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. It can also be used to develop packages for the software Mathematica. Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+{{images/eclipse.png}}
+==Features of Eclipse 4.3(Kepler)==
+# The Business and Reporting Tools (BIRT) and NoSql
+# Eclipse Git Integration (EGit) 3.0
+# Mylyn Reviews
+# Linux Tools 2.0
+# JDT Improvements
+# Maven and Maven integration with WTP
+# RAP 2.x
+# Platform Improvements
+==Eclipse related links==
+* [[http://www.eclipse.org/]] An overview of Eclipse
+* [[http://eclipsesource.com/blogs/2013/06/26/top-10-eclipse-kepler-features/]] 10 Features of Kepler eclipse
+* [[http://developer.android.com/tools/sdk/eclipse-adt.html]] ADT Plugin for Eclipse
+
+
