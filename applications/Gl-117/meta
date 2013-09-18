@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.heptargon.de/gl-117/gl-117.html
+DOWNLOAD_URL=[http://downloads.sourceforge.net/project/gl-117/gl-117/GL-117 Windows/gl-117-1.3-win32.zip
+VERSION=1.3
+EXECUTABLE_NAME=gl-117-1.3-win32.zip
+LINUX_NAME=gl-117

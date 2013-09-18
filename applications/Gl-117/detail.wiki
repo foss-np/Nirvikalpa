@@ -1,0 +1,19 @@
+==About GL-117 1.3==
+GL-117 is an action flight simulator for Linux/Unix and MSWindows. Enter the Eagle Squadron and succeed in several challanging missions leading though different landscapes. Five predefined levels of video quality and an amount of viewing ranges let you perfectly adjust the game to the performance of your system. Joystick, mouse, sound effects, music...
+{{images/gl-117.jpg}}
+==Features of GL-117 1.3==
+# optimizations: graphics are much faster now!!!
+# changed quality modes: higher detail for each mode
+# (old quality=5 is now quality=4)
+# enabled higher view rates
+# source code cleanup (#includes) and documentation
+# adjustments to missiles
+# radar improvements
+# logging to file
+
+==GL-117 related links==
+* [[http://www.heptargon.de/gl-117/gl-117.html]] An overview of how to install and use GL-117
+* [[http://ubuntuforums.org/showthread.php?t=1519108]] Issues with GL-117
+* [[http://megagames.com/freeware/gl-117]] Review of GL-117 by megagames
+
+

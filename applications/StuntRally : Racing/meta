@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.desura.com/games/stunt-rally
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/stuntrally/2.1/StuntRally-2.1-installer.exe
+VERSION=2.1
+EXECUTABLE_NAME=StuntRally-2.1-installer.exe
+LINUX_NAME=stuntrally

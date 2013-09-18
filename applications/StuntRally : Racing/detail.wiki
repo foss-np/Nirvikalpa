@@ -1,0 +1,16 @@
+==About StuntRally: Racing 2.1==
+Open source racing game with a track editor. It focuses on closed rally tracks with possible stunt elements (jumps, loops, pipes). You can drive in Single-Player mode racing against the clock or completing championships. There is also an online Multi-Player mode.
+{{images/stuntrally.jpg}}
+==Features of StuntRally: Racing 2.1==
+# 127 tracks in 24 sceneries, 19 cars and a Track Editor.
+# It focuses on closed rally tracks with possible stunt elements (jumps, loops, pipes).
+# There is networked Multiplayer mode and in single player Championships/Tutorials game mode.
+# Car simulation is done by VDrift (game also here) and rendering by OGRE.
+# The road is based on a 3D spline and it's fully customizable in editor.
+
+==StuntRally: Racing  related links==
+* [[http://www.desura.com/games/stunt-rally/reviews]] Review of StuntRally : Racing
+* [[http://worldofgnome.org/stunt-rally-1-9-brings-more-realism/]] Review of StuntRally
+
+
+
