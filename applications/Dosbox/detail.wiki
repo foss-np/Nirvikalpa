@@ -1,0 +1,11 @@
+==About Dosbox 0.74==
+DOSBox is emulator software that emulates (loosely: "simulates") an IBM PC compatible computer running the older operating system, MS-DOS. Many IBM PC compatible graphics and sound cards are also emulated. This means that original MS-DOS programs are provided an environment in which they can run correctly on many modern computers running a variety of operating systems. DOSBox is especially intended for use with old PC games. DOSBox is free software written primarily in C++ and distributed under the GNU General Public License.
+{{images/dosbox.png}}
+==Features of Dosbox 0.74==
+# configured either by a set of command-line arguments or by editing a plain text configuration file.
+# For ease of use, several graphical front-ends have been developed by the user community.
+# ability to capture screenshots and record gameplay footage
+==Dosbox related links==
+* [[http://www.howtogeek.com/104725/how-to-use-dosbox-to-run-dos-games-and-old-apps/]] Using dosbox for old apps and games
+* [[http://en.wikipedia.org/wiki/DOSBox]] Dosbox wiki
+

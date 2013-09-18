@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.dosbox.com/
+DOWNLOAD_URL=http://kaz.dl.sourceforge.net/project/dosbox/dosbox/0.74/DOSBox0.74-win32-installer.exe
+VERSION=0.74
+EXECUTABLE_NAME=DOSBox0.74-win32-installer.exe
+LINUX_NAME=dosbox
