@@ -1,0 +1,13 @@
+==About Zsnes 1.51==
+ZSNES is a Super Nintendo emulator programmed by zsKnight and _Demo_. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public. It currently runs on Windows, Linux, FreeBSD, and DOS. Remember that this is a public beta so don't expect this to run on your machine.our friends, and more!SuperTuxKart is a Free 3D kart racing game, with many tracks, characters and items for you to try. Have fun!
+{{images/zsnes.png}}
+==Features of Zsnes 1.51==
+# 44.1khz audio (and various effects)
+# movie creation 
+# a plethora of video filters
+# netplay 
+# ZSNES supports a wide variety of games and generally has less slowdown than the console itself. 
+
+==Zsnes related links==
+* [[http://www.emulator-zone.com/doc.php/snes/zsnes.html]] Zsnes described by Emulator Zone
+

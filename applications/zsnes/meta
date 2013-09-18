@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.zsnes.com/
+DOWNLOAD_URL=http://kaz.dl.sourceforge.net/project/zsnes/zsnes/ZSNES%20v1.51/zsnesw151.zip
+VERSION=1.51
+EXECUTABLE_NAME=
+LINUX_NAME=zsnesw
