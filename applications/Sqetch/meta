@@ -1,0 +1,5 @@
+HOMEPAGE=http://sqet.ch/
+DOWNLOAD_URL=http://downloads.eleqtriq.net/sqetch/sqetch_CS4.zip
+VERSION=CS4
+EXECUTABLE_NAME=sqetch.exe
+LINUX_NAME=sqetch

@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.aptana.com/
+DOWNLOAD_URL=http://d1iwq2e2xrohf.cloudfront.net/tools/studio/standalone/3.4.2.201308081805/win/Aptana_Studio_3_Setup_3.4.2.exe
+VERSION=3
+EXECUTABLE_NAME=Aptana_Studio_3_Setup_3.4.2.exe
+LINUX_NAME=aptana-studio

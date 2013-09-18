@@ -1,0 +1,17 @@
+==About Sqetch CS4==
+Sqetch is a simple web application for creating wireframes. Perfect for putting down layout ideas for websites, software, apps, and more.
+{{images/sqetch.jpg}}
+==Features of Sqetch CS4==
+#Sqetch is a little Illustrator-toolkit I built over time, consisting of several templates and elements:
+     Browser
+     iPad upright
+     iPad landscape
+     Smartphone
+     GUI-Elements
+     Form-Elements
+
+==Sqetch related links==
+* [[http://www.eleqtriq.com/2010/08/sqetch-wireframe-toolkit/]] An overview of how to install and use Sqetch
+* [[http://www.webappers.com/2010/09/13/sqetch-a-stylish-illustrator-wireframe-toolkit/]] Review of Sqetch
+
+

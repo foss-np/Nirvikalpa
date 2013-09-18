@@ -1,0 +1,16 @@
+==About Aptana Studio 3==
+Build web applications quickly and easily using the industry’s leading web application IDE. Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine. The world’s most powerful open-source web development IDE just got better. Rebuilt from the ground-up. It's now much faster, customizable and includes new features to help you be more productive
+{{images/aptana.png}}
+==Features of Aptana Studio 3==
+# JavaScript Library Support
+# Code Assist
+# Browser support
+# FTP/SFTP
+# Debugger
+
+==Aptana Studio related links==
+* [[http://www.aptana.com/support]] An overview of how to install and use Aptana Studio
+* [[http://www.htmlgoodies.com/beyond/webmaster/toolbox/review-of-aptana-studio-3.html#fbid=z7CK258DriB]] Review of Aptana Studio
+* [[http://update1.aptana.org/studio/3.4/023903/index.html]] Aptana Studion as a Plugin
+
+

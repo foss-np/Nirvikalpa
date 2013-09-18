@@ -1,0 +1,5 @@
+HOMEPAGE=https://netbeans.org/
+DOWNLOAD_URL=http://dlc.sun.com.edgesuite.net/netbeans/7.3.1/final/bundles/netbeans-7.3.1-windows.exe
+VERSION=7.3.1
+EXECUTABLE_NAME=netbeans-7.3.1-windows.exe
+LINUX_NAME=netbeans
