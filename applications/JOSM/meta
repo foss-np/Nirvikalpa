@@ -1,0 +1,5 @@
+HOMEPAGE=http://josm.openstreetmap.de/
+DOWNLOAD_URL=http://josm.openstreetmap.de/download/windows/josm-setup.exe
+VERSION=6115
+EXECUTABLE_NAME=josm-setup.exe
+LINUX_NAME=JOSM
