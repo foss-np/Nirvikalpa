@@ -1,0 +1,22 @@
+==About QGIS 1.8==
+Quantum GIS (QGIS) is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities. 
+{{images/QGIS.jpg}}
+==Features of QGIS 1.8==
+# Direct viewing of vector and raster data in different formats and projections. Supported formats include:  
+## PostGIS and SpatiaLite,
+## most vector formats supported by the OGR library, including ESRI shapefiles, MapInfo, SDTS and GML. 
+## raster formats supported by the GDAL library*, such as digital elevation models, aerial photography or landsat imagery,
+## GRASS locations and mapsets,
+## online spatial data served as OGC-compliant WMS , WMS-C (Tile cache), WFS and WFS-T
+# Mapping and interactive exploration of spatial data.
+# Create, edit and export spatial data.
+# Perform spatial analysis
+# Publish your map on the internet using QGIS Server or the "Export to Mapfile" capability (requires UMN MapServer)
+# Adapt QGIS to your needs through the extensible plugin architecture.
+
+==QGIS related links==
+* [[http://www.qgis.org/en/about-qgis/features.html | QGIS Open SOurce Alternative to ArcGIS ]]- Features
+* [[http://www.qgis.org/en/community.html | QGIS Community]]
+* [[http://www.qgis.org/en/sponsorship.html | Donate to QGIS]] You can Provide Sponsorship or donation.
+
+

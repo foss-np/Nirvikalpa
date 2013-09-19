@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.qgis.org/
+DOWNLOAD_URL=http://qgis.org/downloads/QGIS-OSGeo4W-1.8.0-2-Setup.exe
+VERSION=1.8.0-2
+EXECUTABLE_NAME=QGIS-OSGeo4W-1.8.0-2-Setup.exe
+LINUX_NAME=QGIS
