@@ -1,0 +1,26 @@
+==About Wireshark 1.10.1==
+Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
+
+Wireshark development thrives thanks to the contributions of networking experts across the globe. It is the continuation of a project that started in 1998.
+{{images/wireshark.jpg}}
+==Features of Wireshark 1.10.1==
+# Deep inspection of hundreds of protocols, with more being added all the time
+# Live capture and offline analysis
+# Standard three-pane packet browser
+# Multi-platform: Runs on Windows, Linux, OS X, Solaris, FreeBSD, NetBSD, and many others
+# Captured network data can be browsed via a GUI, or via the TTY-mode TShark utility
+# The most powerful display filters in the industry
+# Rich VoIP analysis
+# Capture files compressed with gzip can be decompressed on the fly
+# Live data can be read from Ethernet, IEEE 802.11, PPP/HDLC, ATM, Bluetooth, USB, Token Ring, Frame Relay, FDDI, and others (depending on your platform)
+# Decryption support for many protocols, including IPsec, ISAKMP, Kerberos, SNMPv3, SSL/TLS, WEP, and WPA/WPA2
+# Coloring rules can be applied to the packet list for quick, intuitive analysis
+# Output can be exported to XML, PostScript®, CSV, or plain text
+
+==Wireshark related links==
+* [[http://www.wireshark.org/docs/wsug_html_chunked/]] An overview of how to install and use wireshark
+* [[http://www.wireshark.org/lists/ | Wireshark mailing lists]]
+* [[http://www.wiresharkbook.com/]] Books on using wireshark
+* [[https://blog.wireshark.org/2012/10/wireshark-tutorial-series/]] Wireshark Tutorials
+
+

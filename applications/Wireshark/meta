@@ -1,0 +1,7 @@
+HOMEPAGE=http://www.wireshark.org/
+DOWNLOAD_URL=   64-bit [http://wiresharkdownloads.riverbed.com/wireshark/win64/Wireshark-win64-1.10.1.exe], 
+                32-bit [http://wiresharkdownloads.riverbed.com/wireshark/win32/Wireshark-win32-1.10.1.exe] & 
+                portable [ http://wiresharkdownloads.riverbed.com/wireshark/win32/WiresharkPortable-1.10.1.paf.exe ]
+VERSION=1.10.1
+EXECUTABLE_NAME=wireshark.exe
+LINUX_NAME=wireshark
