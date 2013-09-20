@@ -1,0 +1,5 @@
+HOMEPAGE=http://nmap.org/
+DOWNLOAD_URL= http://nmap.org/dist/nmap-6.40-setup.exe
+VERSION=6.40
+EXECUTABLE_NAME=nmap-6.40-setup.exe
+LINUX_NAME=nmap
