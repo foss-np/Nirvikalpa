@@ -1,0 +1,10 @@
+==About GNS3 0.8.5==
+GNS3 is an open source software that simulate complex networks while being as close as possible from the way real networks perform, all of this without having dedicated network hardware such as routers and switches.
+{{images/gns.jpg}}
+==Features of GNS3 0.8.5==
+# GNS3 is an excellent alternative or complementary tool to real labs for network engineers, administrators and people studying for certifications such as Cisco CCNA, CCNP and CCIE as well as Juniper JNCIA, JNCIS and JNCIE. Open source networking is supported too!
+
+==GNS3  related links==
+* [[http://www.gns3.net/documentation/]] An overview of how to install and use GNS3
+* [[http://www.cbtnuggets.com/it-training-videos/course/gns3]] GNS3 training Videos
+

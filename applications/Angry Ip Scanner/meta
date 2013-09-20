@@ -1,0 +1,5 @@
+HOMEPAGE=http://angryip.org/
+DOWNLOAD_URL=http://sourceforge.net/projects/ipscan/files/ipscan2-binary/2.21/ipscan221.exe/download
+VERSION=2.21
+EXECUTABLE_NAME=ipscan221.exe
+LINUX_NAME=ipscan

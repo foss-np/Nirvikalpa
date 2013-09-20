@@ -1,0 +1,16 @@
+==About Angry IP 2.21==
+Angry IP Scanner (or simply ipscan) is an open-source and cross-platform network scanner designed to be fast and simple to use. It scans IP addresses and ports as well as. It is widely used by network administrators and just curious users around the world, including large and small enterprises, banks, and government agencies.
+{{images/angryip.jpg}}
+==Features of Angry IP 2.21==
+# NetBIOS information (computer name, workgroup name, and currently logged in Windows user)
+# favorite IP address ranges 
+# web server detection 
+# customizable openers
+# Scanning results can be saved to CSV, TXT, XML or IP-Port list files. 
+
+==Angry IP related links==
+* [[http://angryip.org/w/Documentation]] An overview of how to install and use Angry Ip Scanner
+* [[http://www.majorgeeks.com/files/details/angry_ip_scanner.html]] Details of Angry Ip Scanner
+
+
+

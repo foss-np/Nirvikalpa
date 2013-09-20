@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.gns3.org/
+DOWNLOAD_URL=http://sourceforge.net/projects/gns-3/files/GNS3/0.8.5/GNS3-0.8.5-all-in-one.exe/download
+VERSION=0.8.5
+EXECUTABLE_NAME=gns.exe
+LINUX_NAME=gns
