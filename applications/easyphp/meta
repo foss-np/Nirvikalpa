@@ -1,0 +1,4 @@
+HOMEPAGE=http://www.easyphp.org/
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/quickeasyphp/EasyPHP-DevServer/13.1VC9/EasyPHP-DevServer-13.1VC9-setup.exe
+VERSION=13.1
+EXECUTABLE_NAME=EasyPHP-DevServer-13.1VC9-setup.exe

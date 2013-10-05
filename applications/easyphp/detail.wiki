@@ -1,0 +1,14 @@
+==About EasyPHP 13.1==
+EasyPHP is an easy to install Apache, MySQL, and PHP for windows (Also abbreviated called WAMP). EasyPHP is really very easy to install and to use - just download, install and you are on the go. It also contains a nice adminstration web interface, from which you can change PHP Versions, add or deltete modules, configure vhosts, and lots of other things.
+{{images/easyphp.png}}
+==Features of EasyPHP 13.1==
+# Apache 2.4.4
+# MySQL 5.6.11
+# PHP 5.5.x, 5.4.x, 5.3.x, 5.2.x
+# phpMyAdmin 3.5.8.1, 4.0.3
+
+==EasyPHP 13.1 related links==
+* [[http://www.easyphp.org/introduction.php] EasyPHP Introduction
+* [[http://sourceforge.net/projects/quickeasyphp/]] EasyPHP Sourceforge Link
+
+
