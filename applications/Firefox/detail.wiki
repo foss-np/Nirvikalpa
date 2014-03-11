@@ -1,0 +1,24 @@
+==About Firefox 26.0==
+Mozilla Firefox is a free and open-source web browser developed for Windows, OS X, and Linux, with a mobile version for Android, by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards.
+{{images/Firefox.png}}
+
+==Features of Firefox 26.0==
+# Tabbed browsing 
+# Spell checking 
+# Incremental find 
+# Live bookmarking
+# Smart Bookmarks
+# A download manager
+# Private browsing
+# Location-aware browsing (also known as "geolocation") based on a Google service
+# An integrated search system that uses Google by default in most localizations. 
+# Functions can be added through extensions, created by third-party developers, of which there is a wide selection, a feature that has attracted many of Firefox's users.
+
+#Additionally, Firefox provides an environment for web developers in which they can use built-in tools, such as the Error Console or the DOM Inspector, or extensions, such as Firebug.
+
+==Firefox related links==
+* [[https://support.mozilla.org/en-US/home | Mozilla Support]] 
+* [[https://addons.mozilla.org/en-US/firefox/ | Firefox Addons]]
+
+
+

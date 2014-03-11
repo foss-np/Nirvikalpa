@@ -1,0 +1,4 @@
+==About Tuxpaint Stamps==
+Stamp Addons for Tuxpaint
+{{images/tuxpaint.png}}
+

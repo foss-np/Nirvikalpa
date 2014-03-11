@@ -1,0 +1,5 @@
+HOMEPAGE=https://www.mozilla.org/en-US/firefox/
+DOWNLOAD_URL=https://download.mozilla.org/?product=firefox-26.0&os=win&lang=en-GB
+VERSION=26.0
+EXECUTABLE_NAME=Firefox Setup 26.0.exe
+LINUX_NAME=Firefox

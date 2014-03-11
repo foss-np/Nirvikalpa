@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.tuxpaint.org/stamps/
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/tuxpaint/tuxpaint-stamps/2009.06.28/tuxpaint-stamps-2009-06-28-win32-installer.exe?r=&ts=1389601290&use_mirror=kaz
+VERSION=2009.06.28
+EXECUTABLE_NAME=tuxpaint-stamps-2009-06-28-win32-installer.exe
+LINUX_NAME=Tuxpaint-stamps
