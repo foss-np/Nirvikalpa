@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.getmiro.com/
+DOWNLOAD_URL=http://dnld.ironcustapps.com/cust/Pculture/Getmiro/GetmiroSetup_v2.0.6.18709_985_ready.exe
+VERSION=2.0.6
+EXECUTABLE_NAME=GetmiroSetup_v2.0.6.18709_985_ready.exe
+LINUX_NAME=Miro

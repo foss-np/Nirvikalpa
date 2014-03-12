@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.httrack.com
+DOWNLOAD_URL=http://download.httrack.com/cserv.php3?File=httrack.exe
+VERSION=3.47-27
+EXECUTABLE_NAME=httrack.exe
+LINUX_NAME=WebHTTrack

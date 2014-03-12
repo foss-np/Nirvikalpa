@@ -1,0 +1,21 @@
+==About Miro 2.0.6==
+The beautiful, Open Source music and video player that lets you break free!!
+It is On-demand video player and podcast client. 
+{{images/Miro.png}}
+
+==Features of Miro 2.0.6==
+# Works with your current music library
+# Converts and syncs to Android & Kindle Fire 
+# Buy Music and Apps inside Miro 
+# Download and play almost any video 
+# Convert any video
+# Share Your Media on your Network
+# Open-source - don't lock yourself in!
+# Ultra-fast torrent downloading
+
+==Miro related links==
+* [[http://www.getmiro.com/using-miro/| Miro]]:Get Started
+* [[http://www.getmiro.com/help/| Find Help]]
+* [[https://www.miroguide.com/donate | Donate Miro]]
+
+

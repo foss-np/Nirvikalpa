@@ -1,0 +1,22 @@
+==About Alliance 1.0.6==
+Alliance is a private and secure environment to share files and communicate with people you know. Alliance is a safe p2p software.  
+{{images/alliance.png}}
+==Features of Alliance 1.0.6==
+#Alliance is free and open source. It works on Windows, Mac OS X and Linux. Alliance is completely decentralized. 
+#It is easy to use and free.
+#Technically Alliance takes the best parts of BitTorrent (advanced multi-source downloading), DirectConnect (community) and WASTE (security).
+#With Alliance users create their own networks. You can either start a new network or get invited into an existing network by another Alliance user.
+#Chat with your coworkers or friends in a secure and private way.
+#Notice that you can send links in the chat that point to files in your Alliance network. 
+#Search for files in your network of coworkers or friends using the decentralized high-speed search engine. 
+#Download files securely and at high speeds. File transfers use BitTorrent-like technology. Files can be downloaded from multiple sources and uploaded to others at the same time. 
+#Encryption is an important part of Alliance. Robust encryption (AES over SSL) has been implemented and is available as an experimental option in Alliance. By default Alliance runs on a very simplistic encryption algorithm. Even with the simple encryption Alliance is more secure than normal P2P networks since you only connect to your trusted friends. 
+
+
+==Alliance related links==
+* [[http://www.alliancep2p.com/index.shtml | Alliance :A safe p2p software]] An overview about Alliance
+* [[http://sourceforge.net/p/alliancep2p/discussion/568436 | Alliance Discussion Forum]]
+* [[http://www.alliancep2p.com/dev/ | Developer's Corner]]
+* [[paypal@md.stendahls.net | Donate to Alliance p2p]] You can Donate to Alliance p2p via paypal.
+
+
