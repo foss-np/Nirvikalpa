@@ -1,0 +1,5 @@
+HOMEPAGE=http://bluefish.openoffice.nl
+DOWNLOAD_URL=http://sourceforge.net/projects/bluefish/files/latest/download
+VERSION=2.2.5
+EXECUTABLE_NAME=bf225.exe
+LINUX_NAME=Blue_fish
