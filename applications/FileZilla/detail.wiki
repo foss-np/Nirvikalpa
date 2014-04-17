@@ -1,0 +1,33 @@
+==About FileZilla 3.8==
+FileZilla is a cross-platform graphical FTP, FTPS and SFTP client with a lot of features, supporting Windows, Linux, Mac OS X and more. FileZilla Server is a reliable FTP server for Windows.
+{{images/FileZilla.jpg}}
+==Features of FileZilla 3.8==
+# Easy to use
+# Supports FTP, FTP over SSL/TLS (FTPS) and SSH File Transfer Protocol (SFTP)
+# Cross-platform. Runs on Windows, Linux, *BSD, Mac OS X and more
+# IPv6 support
+# Available in many languages
+# Supports resume and transfer of large files >4GB
+# Tabbed user interface
+# Powerful Site Manager and transfer queue
+# Bookmarks
+# Drag & drop support
+# Configurable transfer speed limits
+# Filename filters
+# Directory comparison
+# Network configuration wizard
+# Remote file editing
+# Keep-alive
+# HTTP/1.1, SOCKS5 and FTP-Proxy support
+# Logging to file
+# Synchronized directory browsing
+# Remote file search
+
+    
+
+==FileZilla related links==
+* [[https://wiki.filezilla-project.org/Documentation/]] An overview of how to install and use FileZilla
+* [[https://wiki.filezilla-project.org/Client_Installation]]Client Installation of FileZilla
+
+
+

@@ -1,7 +1,7 @@
-==About BLuefish  2.2.5==
+==About Bluefish  2.2.5==
 Bluefish is a powerful editor for experienced web designers and programmers. Bluefish supports many programming and markup languages, but it focuses on editing dynamic and interactive websites.
 {{images/Bluefish.jpg}}
-==Features of BLuefish  2.2.5==
+==Features of Bluefish  2.2.5==
 #Bluefish tries to be lean and clean, as far as possible given it is a GUI editor.
 #Multiple document interface, easily opens 500+ documents (tested >10000 documents simultaneously)
 #Multi-threaded support for remote files using gvfs, supporting FTP, SFTP, HTTP, HTTPS, WebDAV, CIFS and more
@@ -12,12 +12,12 @@ Bluefish is a powerful editor for experienced web designers and programmers. Blu
     *Code block folding
     *Highlighting matching block start and end markers (both brackets and tags)
     *Auto-completion and auto-tag-closing for many programming languages, with reference information, and even for nested languages (e.g. css and javascript inside html code that is inside a php document)
-#With included language definition files for:
+With included language definition files for:
     *Ada, ASP .NET and VBS, C/C++, CSS, CFML, Clojure, D, gettext PO, Google Go, HTML, XHTML, HTML5, Java and JSP, JavaScript and jQuery, Lua, Octave/MATLAB, MediaWiki, NSIS, Pascal, Perl, PHP, Python, R, Ruby, Shell, Scheme, SQL, SVG, Vala, Wordpress, XML
 
 
-==BLuefish  2.2.5 related links==
-* [[http://sourceforge.net/projects/bluefish/files/latest | Bluefish: A powerful editor]] An overview of how to install and use Bluefish 
+==Bluefish  2.2.5 related links==
+* [[http://sourceforge.net/projects/bluefish/files/latest | Bluefish: A powerful editor]] 
 * [[http://bluefish.openoffice.nl/index.html | Bluefish official homepage]]
 * [[http://bfwiki.tellefsen.net/index.php/Main_Page| Wiki Info for Bluefish editor]]
 

@@ -20,5 +20,3 @@
 * [[http://www.granneman.com/techinfo/windows/7zipopensourcearchiving.htm | 7-Zip: An Open Source Archiving Tool]] An overview of how to install and use 7-Zip
 * [[http://sourceforge.net/forum/?group_id=14481 | 7-Zip mailing lists]]
 * [[http://www.7-zip.org/register.html | Donate to 7-Zip]] You can register 7-Zip to support further development
-
-

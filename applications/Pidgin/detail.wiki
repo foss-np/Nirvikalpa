@@ -1,0 +1,15 @@
+==About Pidgin 2.10.9==
+
+Pidgin is an instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems. 
+{{images/pidgin.jpg}}
+==Features of Pidgin 2.10.9==
+# Multiple chat networks simultaneously.
+# Compatible with the following chat networks out of the box:
+    AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo!, Bonjour, Gadu-Gadu, IRC, Novell GroupWise Messenger, Lotus Sametime, SILC, SIMPLE, MXit, MySpaceIM, and Zephyr.
+# Supports many more with plugins.
+# Supports many features of these chat networks, such as file transfers, away messages, buddy icons, custom smilies, and typing notifications.
+#  Integrates with the system tray on Windows, GNOME2, KDE 3, and KDE 4.
+
+==Pidgin related links==
+* [[https://developer.pidgin.im/wiki]] An overview of how to install and use Pidgin
+* [[http://pidgin.im/support/]] General Pidgin help

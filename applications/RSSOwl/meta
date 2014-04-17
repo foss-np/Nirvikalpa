@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.rssowl.org
+DOWNLOAD_URL=http://sourceforge.net/projects/rssowl/files/rssowl%202/2.2.1/RSSOwl%20Setup%202.2.1.exe/download
+VERSION=2.2.1
+EXECUTABLE_NAME=RSSOwl Setup 2.2.1.exe
+LINUX_NAME=RSSOwl

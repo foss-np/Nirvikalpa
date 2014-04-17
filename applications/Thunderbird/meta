@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.mozilla.org/en-US/thunderbird/
+DOWNLOAD_URL=http://download.mozilla.org/?product=thunderbird-24.4.0&os=win&lang=en-US
+VERSION=24.4
+EXECUTABLE_NAME=Thunderbird Setup 24.4.exe
+LINUX_NAME=Thunderbird

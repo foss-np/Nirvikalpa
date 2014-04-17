@@ -1,0 +1,5 @@
+HOMEPAGE=http://seamonkey-project.org
+DOWNLOAD_URL=https://download.mozilla.org/?product=seamonkey-2.25&os=win&lang=en-US
+VERSION=2.25
+EXECUTABLE_NAME=SeaMonkey Setup 2.25.exe
+LINUX_NAME=SeaMonkey

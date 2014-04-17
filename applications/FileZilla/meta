@@ -1,0 +1,5 @@
+HOMEPAGE=https://filezilla-project.org/
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/filezilla/FileZilla_Client/3.8.0/FileZilla_3.8.0_win32-setup.exe?r=&ts=1397746318&use_mirror=kaz
+VERSION=3.8.0
+EXECUTABLE_NAME=FileZilla_3.8.0_win32-setup.exe
+LINUX_NAME=FileZilla

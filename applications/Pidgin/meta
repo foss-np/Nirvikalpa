@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.pidgin.im/
+DOWNLOAD_URL=http://sourceforge.net/projects/pidgin/files/Pidgin/2.10.9/pidgin-2.10.9.exe/download
+VERSION=2.10.9
+EXECUTABLE_NAME=pidgin-2.10.9.exe
+LINUX_NAME=pidgin

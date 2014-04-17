@@ -1,0 +1,11 @@
+==About SeaMonkey 2.25==
+
+{{images/seamonkey.jpg}}
+==Features of SeaMonkey 2.25=
+# SeaMonkey suite uses the same rendering engine and application platform as its sibling Mozilla Firefox, with popular features like tabbed browsing, feed detection, popup blocking, smart location bar, find as you type and a lot of other functionality for a smooth web experience.
+# SeaMonkey's Mail and Newsgroups client shares lots of code with Mozilla Thunderbird and features adaptive Junk mail filtering, tags and mail views, web feeds reading, tabbed messaging, multiple accounts, S/MIME, address books with LDAP support and is ready for both private and corporate use.
+# Additional components include an easy-to-use HTML Editor, the ChatZilla IRC chat application and web development tools like a DOM Inspector and a JavaScript debugger.
+# SeaMonkey can be extended with numerous Add-Ons that provide additional functionality and customization for a complete Internet experience.
+
+==SeaMonkey related links==
+* [[http://www.seamonkey-project.org/doc/]] An overview of how to install and use SeaMonkey

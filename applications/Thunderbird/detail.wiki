@@ -1,0 +1,12 @@
+==About Thunderbird 24.4.0==
+
+{{images/thunderbird.jpg}}
+==Features of Thunderbird 24.4.0=
+# Easy to Set Up and Easy to Use
+# Customize Your Email Experience
+# Multiple Search Options
+# Secure and Protect Your Mail
+
+==Thunderbird related links==
+* [[https://support.mozilla.org/en-US/kb/installing-thunderbird-windows]] An overview of how to install Thunderbird
+* [[https://support.mozilla.org/en-US/products/thunderbird]] Help topics for Thunderbird

@@ -1,0 +1,18 @@
+==About RSSOwl 2.2.1==
+
+{{images/RSSOwl.png}}
+==Features of RSSOwl 2.2.1==
+# Used on all major platforms like Windows, Linux (32 Bit and 64 Bit) and Apple Mac OS X.
+# Easy to keep your list of subscriptions and articles synchronized with your Google Reader account. 
+# Display news feeds side by side in multiple tabs.
+# Use the embedded Browser to open the full content of a news entry from the originating web site.
+# Switch to the newspaper view to get the full content of a feed displayed at once inside the embedded browser.
+# Select from one of the keyword feeds to receive news from a specific topic of your interest.
+# With the help of the Clean-Up Wizard you can easily get rid of old news entries or feeds that have not updated in a while. 
+# You can easily customize the toolbar in RSSOwl to make actions you commonly use easy to access with a single click. 
+# RSSOwl supports a wide range of features that make RSSOwl accessible.
+
+==RSSOwl related links==
+* [[http://sourceforge.net/p/rssowl/wiki/Home/]] An overview of how to install and use RSSOwl
+* [[http://sourceforge.net/projects/rssowl/support]] RSSOwl forum
+
