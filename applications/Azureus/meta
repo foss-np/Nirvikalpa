@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.vuze.com/
+DOWNLOAD_URL=http://sourceforge.net/projects/azureus/files/latest/download
+VERSION=5.30
+EXECUTABLE_NAME=Vuze_5300_Installer.exe
+LINUX_NAME=azureus

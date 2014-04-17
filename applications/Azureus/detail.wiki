@@ -1,0 +1,14 @@
+==About Azureus 5.30==
+Vuze (formerly Azureus) is a P2P file sharing client using the bittorrent protocol. Search and download torrent files. Play, convert and transcode videos and music for playing on many devices such as PSP, TiVo, XBox, PS3, iTunes (iPhone, iPod, Apple TV).
+{{images/azureus.jpg}}
+==Features of Azureus 5.30==
+# Meta search- Offers the most comprehensive entertainment and other content and torrent search experience on the web.
+# Subscriptions- Subscriptions enable you to automatically find similar content. 
+# Watch in Full Screen HD (1080p)
+# Smooth playback (no painful buffering delays)
+# Offline playback (on planes, trains, automobiles)
+# Drag-and-drop your content to play back on the device of your choice.
+
+==Azureus related links==
+* [[http://wiki.vuze.com/]] An overview of Azureus
+* [[http://www.vuze.com/]] Homepage of Azureus
