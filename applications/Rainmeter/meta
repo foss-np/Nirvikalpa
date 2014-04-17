@@ -1,0 +1,5 @@
+HOMEPAGE=http://rainmeter.net/
+DOWNLOAD_URL=   [https://github.com/rainmeter/rainmeter/releases/download/v3.0.2.2161/Rainmeter-3.0.2.exe]
+VERSION=3.0.2
+EXECUTABLE_NAME=Rainmeter-3.0.2.exe
+LINUX_NAME=Rainmeter

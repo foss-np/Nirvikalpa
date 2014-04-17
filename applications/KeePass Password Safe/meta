@@ -1,0 +1,6 @@
+HOMEPAGE=http://keepass.info//
+DOWNLOAD_URL=  installer [http://sourceforge.net/projects/keepass/files/KeePass%202.x/2.26/KeePass-2.26-Setup.exe/download?accel_key=77%3A1397748720%3Ahttp%253A//keepass.info/download.html%3Af8a5be24%243bc4c67fdfe6ee6238c936fa7e29e3ed2564fecc&click_id=6b61a0ce-c645-11e3-96b4-0200ac1d1d90-2&source=accel] &
+		portable [http://sourceforge.net/projects/keepass/files/KeePass%202.x/2.26/KeePass-2.26.zip/download?accel_key=77%3A1397749727%3Ahttp%253A//keepass.info/download.html%3A5f13d377%24f3d2ea9f869b72d4d83adfb0d93706bebcad8257&click_id=c36b1df2-c647-11e3-b7f7-0200ac1d1d90-3&source=accel]
+VERSION=2.26
+EXECUTABLE_NAME=KeePass-2.26-Setup.exe
+LINUX_NAME=KeePass Password Safe

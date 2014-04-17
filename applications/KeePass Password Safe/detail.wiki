@@ -1,0 +1,16 @@
+==About KeePass Password Safe 2.26==
+KeePass is a free, open source, light-weight and easy-to-use password manager for Windows, Linux, Mac OS X and mobile devices. You can store your passwords in a highly-encrypted database, which is locked with one master password or key file.
+{{images/KeePass Password Safe.png}}
+==Features of KeePass Password Safe 2.26==
+# Strong security (AES encryption, SHA-256 hash, protection against dictionary and guessing attacks, in-memory protection, ...).
+# Portable (no installation required), available for many platforms (Windows, Linux, Mac OS X, smart devices/phones, ...).
+# Efficient and flexible organization (entry groups, tags, time fields, file attachments, ...).
+# Various data transfer methods (clipboard, drag and drop, auto-type, plugins can provide integration with other applications, ...).
+# Powerful password generator (generation based on character sets and patterns, with many options).
+# Extensible (plugin architecture) and multi-language (more than 40 languages are available).
+
+==KeePass Password Safe related links==
+* [[http://keepass.info/help/v2/setup.html]] About installation, uninstallation, portability and updates
+* [[http://sourceforge.net/p/keepass/discussion/ | Forum]]
+* [[http://hotbutteredit.com/category/software/keepass]] Keepass Video Tutorials
+

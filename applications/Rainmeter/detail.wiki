@@ -1,0 +1,12 @@
+==About Rainmeter 3.0.2==
+Rainmeter is a desktop customization program for windows. You can enhance your Windows computer at home or work with skins; handy, compact applets that float freely on your desktop.Rainmeter skins provide you with useful information at a glance. It's easy to keep an eye on your system resources, like memory and battery power, or your online data streams, including email, RSS feeds, and weather forecasts.
+{{images/Rainmeter.jpg}}
+
+==Features of Rainmeter 3.0.2==
+# It uses very little CPU and RAM resources, has a tiny space footprint, and will run perfectly well on any hardware using Windows XP through Windows 8.
+# Can create and modify your own skin. 
+
+==Rainmeter related links==
+* [[https://github.com/rainmeter/rainmeter]] Involve in Rainmeter
+* [[http://rainmeter.net/forum/ | Rainmeter Forum]]
+

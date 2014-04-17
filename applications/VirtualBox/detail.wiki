@@ -1,0 +1,21 @@
+==About VirtualBox 4.3.10==
+VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
+
+
+{{images/VirtualBox.jpg}}
+==Features of VirtualBox 4.3.10==
+# No hardware virtualization is required 
+# Guest Additions: shared folders, seamless windows, 3D virtualization
+# Multigeneration branched snapshots
+# Clean architecture; unprecedented modularity
+# Remote machine display
+# Great hardware support: guest multiprocessing (SMP), USB device support, hardware compatibility, full ACPI support, multiscreen resolutions, built-in iSCSI support, PXE Network boot
+# Supported hosts: Windows, Mac OS X, Linux 
+
+
+==VirtualBox related links==
+* [[https://www.virtualbox.org/manual/ch01.html#features-overview]] A complete manual on VirtualBox 
+* [[https://forums.virtualbox.org/ | VirtualBox Forum]]
+* [[https://www.virtualbox.org/wiki/Contributor_information]] Instructions to contribute to VirtualBox
+
+

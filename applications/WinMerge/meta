@@ -1,0 +1,7 @@
+HOMEPAGE=http://winmerge.org/
+DOWNLOAD_URL=   installer [http://sourceforge.net/projects/winmerge/files/stable/2.14.0/WinMerge-2.14.0-Setup.exe/download?use_mirror=kaz],
+		Zip-Format [http://sourceforge.net/projects/winmerge/postdownload?source=dlp] &
+		7z-Format[http://sourceforge.net/projects/winmerge/files/stable/2.14.0/WinMerge-2.14.0-exe.7z/download?use_mirror=kaz]
+VERSION=2.14.0
+EXECUTABLE_NAME=WinMerge-2.14.0-Setup.exe
+LINUX_NAME=WinMerge

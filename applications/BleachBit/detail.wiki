@@ -1,0 +1,24 @@
+==About BleachBit 1.0==
+BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there. Designed for Linux and Windows systems, it wipes clean a thousand applications including Firefox, Internet Explorer, Adobe Flash, Google Chrome, Opera, Safari,and more. Beyond simply deleting files, BleachBit includes advanced features such as shredding files to prevent recovery, wiping free disk space to hide traces of files deleted by other applications, and vacuuming Firefox to make it faster. Better than free, BleachBit is open source.
+{{images/BleachBit.png}}
+
+==Features of BleachBit 1.0==
+# Simple operation: read the descriptions, check the boxes you want, click preview, and click delete.
+# Multi-platform: Linux and Windows
+# Free of charge
+# Free to share, learn, and modify (open source)
+# No adware, spyware, malware, or browser toolbars
+# Translated to 61 languages
+# Shred files to hide their contents and prevent data recovery
+# Shred any file (such as a spreadsheet on your desktop)
+# Overwrite free disk space to hide previously deleted files
+# Overwrite free disk space to hide previously deleted files
+# CleanerML allows anyone to write a new cleaner using XML
+# Command line interface for scripting and automation
+# Automatically import and update winapp2.ini cleaner files (a separate download) giving Windows users access to 1700+ additional cleaners
+# Frequent software updates with new features
+
+==BleachBit related links==
+* [[http://bleachbit.sourceforge.net/forum | BleachBitForum]] An overview of how to install and use wireshark
+* [[http://bleachbit.blogspot.com/2009/07/bleachbit-053-released.html#video]] Basic instruction of BleachBit with videos
+

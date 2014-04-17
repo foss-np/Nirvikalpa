@@ -1,0 +1,5 @@
+HOMEPAGE=http://ophcrack.sourceforge.net/
+DOWNLOAD_URL=   32-bit [http://sourceforge.net/projects/ophcrack/files/ophcrack/3.6.0/ophcrack-win32-installer-3.6.0.exe/download?use_mirror=cznic]
+VERSION=3.6.0
+EXECUTABLE_NAME=ophcrack-win32-installer-3.6.0.exe
+LINUX_NAME=OPHCrack

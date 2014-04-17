@@ -1,0 +1,11 @@
+==About HealthMonitor 2.1==
+HealthMonitor is a free powerful and featureful system monitoring tool for Windows. 
+It works as a Windows Service and check system status (event viewer, disk free space, services status, performance....) and notify the administration by E-Mail, SMS ...
+{{images/HealthMonitor.jpg}}
+
+==Features of HealthMonitor 2.1==
+#
+
+==HealthMonitor related links==
+* [[http://sourceforge.net/p/healthmonitor/discussion/ | Discussion]] 
+

@@ -1,0 +1,22 @@
+==About OPHCrack 3.6.0==
+Ophcrack is a free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.
+
+{{images/OPHCrack.jpg}}
+==Features of OPHCrack 3.6.0==
+# Runs on Windows, Linux/Unix, Mac OS X, ...
+# Cracks LM and NTLM hashes.
+# Free tables available for Windows XP and Vista/7.
+# Brute-force module for simple passwords.
+# Audit mode and CSV export.
+# Real-time graphs to analyze the passwords.
+# LiveCD available to simplify the cracking.
+# Dumps and loads hashes from encrypted SAM recovered from a Windows partition.
+# Free and open source software (GPL).
+
+
+==OPHCrack related links==
+* [[http://sourceforge.net/p/ophcrack/wiki/Home/]] Support for OPHCrack
+* [[http://sourceforge.net/projects/ophcrack/ | OPHCrack Support]]
+
+
+

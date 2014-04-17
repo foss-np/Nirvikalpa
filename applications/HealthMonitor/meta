@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.wireshark.org/
+DOWNLOAD_URL=   zip [http://sourceforge.net/projects/healthmonitor/files/latest/download]
+VERSION=2.1
+EXECUTABLE_NAME=HealthMonitor_2.1Stable.zip
+LINUX_NAME=HealthMonitor
