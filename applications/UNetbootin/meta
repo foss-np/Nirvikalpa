@@ -1,0 +1,8 @@
+HOMEPAGE=http://unetbootin.sourceforge.net/
+DOWNLOAD_URL=http://sourceforge.net/projects/unetbootin/files/UNetbootin/585/unetbootin-windows-585.exe/download?use_mirror=cznic
+VERSION=585
+HOMEPAGE=
+DOWNLOAD_URL=
+VERSION=585
+EXECUTABLE_NAME=unetbootin-windows-585.exe
+LINUX_NAME=UNetbootin

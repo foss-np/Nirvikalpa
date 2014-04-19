@@ -1,0 +1,5 @@
+HOMEPAGE=http://djvu.sourceforge.net/
+DOWNLOAD_URL=http://sourceforge.net/projects/djvu/files/latest/download?source=files
+VERSION=3.5.25.3
+EXECUTABLE_NAME=DjVuLibre
+LINUX_NAME=DjVuLibre

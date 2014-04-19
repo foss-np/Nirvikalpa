@@ -1,0 +1,5 @@
+==About GanttProject [2.6.5]==
+GanttProject is GPL-licensed (free software) Java based, project management software that runs under the Windows, Linux and Mac OS X operating systems. This project was initiated in January 2003, at University of Marne-la-Vallée (France) and managed, at first, by Alexandre Thomas, now replaced by Dmitry Barashev.
+{{images/gantt.png}}
+==Features==
+Create work breakdown structre

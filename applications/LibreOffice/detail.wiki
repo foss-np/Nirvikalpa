@@ -1,0 +1,5 @@
+==About LibreOffice [4.2.3]==
+LibreOffice is a powerful office suite; Its clean interface and its powerful tools let you unleash your creativity and grow your productivity.
+{{images/LibreOffice embeds several applications that make it the most powerful Free & Open Source Office suite on the marketLibreOffice.png}}
+==Features==
+Read and write any kind of documents.

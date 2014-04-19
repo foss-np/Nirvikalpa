@@ -1,0 +1,5 @@
+==About FreePlane [1.3.7]==
+Freeplane is a free, open source software application for creating mind maps (diagrams of connections between ideas), and electronic outlines. Written in Java, Freeplane is supported on Windows, Mac OS X and Linux, and is licensed under the GNU GPL version "2 or later".
+{{images/Freeplane.png}}
+==Features==
+Creation of mind maps

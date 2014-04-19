@@ -1,0 +1,5 @@
+HOMEPAGE=http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html
+DOWNLOAD_URL=http://blog.kowalczyk.info/software/sumatrapdf/downloadafter.html
+VERSION=2.4
+EXECUTABLE_NAME=SumatraPDF-2.4-install.exe
+LINUX_NAME=Sumatra PDF

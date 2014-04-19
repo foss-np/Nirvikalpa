@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.gnucash.org/
+DOWNLOAD_URL=http://sourceforge.net/projects/gnucash/files/gnucash%20%28stable%29/2.6.3/gnucash-2.6.3-setup.exe/download?use_mirror=kaz
+VERSION=2.6.3
+EXECUTABLE_NAME=gnucash-2.6.3-setup.exe
+LINUX_NAME=GnuCash

@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.ganttproject.biz/
+DOWNLOAD_URL=http://code.google.com/p/ganttproject/downloads/detail?name=ganttproject-2.6.5-r1638.exe&can=2&q=label%3ABrno+label%3AOpSys-Windows+label%3Arelease
+VERSION=2.6.5
+EXECUTABLE_NAME=ganttproject-2.6.5-r1638.exe
+LINUX_NAME=GanttProject

@@ -1,0 +1,5 @@
+HOMEPAGE=http://freemind.sourceforge.net/wiki/index.php/Main_Page
+DOWNLOAD_URL=http://sourceforge.net/projects/freemind/files/freemind/1.0.1/FreeMind-Windows-Installer-1.0.1-max.exe/download?use_mirror=kaz&download=
+VERSION=1.0.1
+EXECUTABLE_NAME=FreeMind
+LINUX_NAME=FreeMind

@@ -1,0 +1,5 @@
+HOMEPAGE=https://www.libreoffice.org/
+DOWNLOAD_URL=http://donate.libreoffice.org/home/dl/win-x86/4.1.5/en-US/LibreOffice_4.1.5_Win_x86.msi
+VERSION=4.2.3
+EXECUTABLE_NAME=LibreOffice_4.1.5_Win_x86.msi
+LINUX_NAME=LibreOffice
