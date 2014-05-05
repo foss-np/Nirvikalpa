@@ -1,5 +1,3 @@
-Desktop Applications 
-* 7 Zip 
 Educational
 * Juniors 
 ** TuxPaint
@@ -14,6 +12,7 @@ Educational
 ** PSPP
 ** UGENE
 ** BioViz
+
 Games
 * Battle for Wesnoth
 * Enigma
@@ -31,13 +30,90 @@ Games
 * StuntRally
 * FlightGear
 * GL-117
+
 Graphics
 * Blender
 * Dia
 * Inkscape
 * Scribus
+
 Internet 
-Server 
+* Alliance
+* Azureus
+* FileZilla
+* Firefox
+* HTTrack
+* Miro
+* Pidgin
+* RSSOwl
+* SeaMonkey
+* Thunderbird
+* TightVNC
+* InSync
+
+Network 
+* Wireshark
+* NMAP
+* Angry IP Scanner
+* GNS3
+
+
 Sound and Video 
+* Audacity
+* Avidemux
+* Celestia
+* InfraRecorder
+* Really Slick Screensavers
+* Songbird
+* Tux Guitar
+* Handbrake
 * VLC media player
-Utilities 
+
+Programming
+* Dev C++
+* MinGW
+* CODE::BLOCKS
+* Aptana Studio
+* Sqetch
+* Notepad++
+* Eclipse
+* Codelite
+* Monodevelop
+* GNUSim8085
+* i8086emu
+* UMLet
+** Server
+* XAMPP
+** Database tool
+* MySQL Workbench
+** Source Control Mangement
+* Git
+* TortoiseSVN (SVN Client) 
+ 
+Utilities
+* UNetBootIn
+* 7-Zip
+* Abakt
+* ClamWin
+* GTK+
+* TrueCrypt
+* Workrave
+* Unicodify
+* Nepali Unicode Pack
+* VirtualBox
+* KeePass Password Safe
+* OPHCrack
+* RainMeter
+* WinMerge
+* BlueFish Editor
+* BleachBit
+
+OFFICE/ Productivity
+* DjVuLibre
+* FreeMind
+* Freeplane
+* GanttProject
+* GnuCash
+* LibreOffice
+* Sumatra PDF
+* PDFCreator
